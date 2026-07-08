@@ -1,107 +1,205 @@
 import time
+
 from fastapi import FastAPI, Request
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 from starlette.exceptions import HTTPException as StarletteHTTPException
-from app.api.v1.items import router as item_router
+
 from app.api.v1.auth import router as auth_router
+from app.api.v1.items import router as item_router
 from app.api.v1.users import router as user_router
 from app.core.exceptions import AppError
 from app.core.logging import logger
 from app.middleware.logging import RequestLoggingMiddleware
 from app.middleware.rate_limit import RateLimitMiddleware
 
-app = FastAPI(title="SkillPath Recommendation API")
+app = FastAPI(
+    title="SkillPath Recommendation API",
+    description="REST API for personalized learning recommendations.",
+    version="1.0.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+)
 
-# Store start time for uptime calculation
+DOCS_PATHS = {"/docs", "/docs/oauth2-redirect", "/redoc", "/openapi.json"}
+
+# Store application start time
 _start_time = time.time()
 
-# Add middleware
+# ---------------------------------------------------------------------
+# Middleware
+# ---------------------------------------------------------------------
+
 app.add_middleware(RequestLoggingMiddleware)
 app.add_middleware(RateLimitMiddleware, calls=100, period=60)
 
 
 @app.middleware("http")
 async def add_security_headers(request: Request, call_next):
+    start = time.perf_counter()
+
     response = await call_next(request)
+
+    process_time = (time.perf_counter() - start) * 1000
+
     response.headers["X-Frame-Options"] = "DENY"
     response.headers["X-Content-Type-Options"] = "nosniff"
     response.headers["X-XSS-Protection"] = "1; mode=block"
     response.headers["Strict-Transport-Security"] = "max-age=31536000; includeSubDomains"
-    response.headers["Content-Security-Policy"] = "default-src 'self'"
-    response.headers["X-Request-ID"] = request.headers.get("X-Request-ID", "test-request")
-    response.headers["X-Response-Time"] = "0ms"
+    if request.url.path not in DOCS_PATHS:
+        response.headers["Content-Security-Policy"] = "default-src 'self'"
+    response.headers["X-Request-ID"] = request.headers.get(
+        "X-Request-ID", "generated-request-id"
+    )
+    response.headers["X-Response-Time"] = f"{process_time:.2f}ms"
+
     return response
 
 
+# ---------------------------------------------------------------------
+# Root & Health Endpoints
+# ---------------------------------------------------------------------
+
+@app.get("/", tags=["Health"])
+async def root():
+    return {
+        "success": True,
+        "message": "SkillPath Recommendation API is running",
+        "version": app.version,
+        "documentation": "/docs",
+        "redoc": "/redoc",
+        "health": "/health",
+    }
+
+
+@app.get("/health", tags=["Health"])
+async def health():
+    return {
+        "success": True,
+        "status": "healthy",
+        "uptime_seconds": round(time.time() - _start_time, 2),
+    }
+
+
+# ---------------------------------------------------------------------
+# Exception Handlers
+# ---------------------------------------------------------------------
+
 @app.exception_handler(AppError)
 async def app_error_handler(request: Request, exc: AppError):
-    return JSONResponse(status_code=exc.status_code, content={
-        "success": False,
-        "message": exc.message,
-        "data": None,
-    })
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={
+            "success": False,
+            "message": exc.message,
+            "data": None,
+        },
+    )
 
 
 @app.exception_handler(RequestValidationError)
 async def validation_exception_handler(request: Request, exc: RequestValidationError):
-    logger.warning("Validation error", extra={"path": request.url.path, "errors": exc.errors()})
-    errors = []
-    for error in exc.errors():
-        location = error.get("loc", [])
-        message = error.get("msg", "Validation failed")
-        errors.append({
-            "loc": [str(item) for item in location],
-            "msg": message,
+    logger.warning(
+        "Validation error",
+        extra={
+            "path": request.url.path,
+            "errors": exc.errors(),
+        },
+    )
+
+    errors = [
+        {
+            "loc": [str(item) for item in error.get("loc", [])],
+            "msg": error.get("msg", "Validation failed"),
             "type": error.get("type", "value_error"),
-        })
-    return JSONResponse(status_code=422, content={
-        "success": False,
-        "message": "Validation failed",
-        "data": errors,
-    })
+        }
+        for error in exc.errors()
+    ]
+
+    return JSONResponse(
+        status_code=422,
+        content={
+            "success": False,
+            "message": "Validation failed",
+            "data": errors,
+        },
+    )
 
 
 @app.exception_handler(StarletteHTTPException)
 async def http_exception_handler(request: Request, exc: StarletteHTTPException):
-    return JSONResponse(status_code=exc.status_code, content={
-        "success": False,
-        "message": exc.detail,
-        "data": None,
-    })
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={
+            "success": False,
+            "message": exc.detail,
+            "data": None,
+        },
+    )
 
 
 @app.exception_handler(IntegrityError)
 async def integrity_error_handler(request: Request, exc: IntegrityError):
-    logger.error("Integrity error", extra={"path": request.url.path, "error": str(exc)})
-    return JSONResponse(status_code=409, content={
-        "success": False,
-        "message": "Database integrity error",
-        "data": None,
-    })
+    logger.error(
+        "Integrity error",
+        extra={
+            "path": request.url.path,
+            "error": str(exc),
+        },
+    )
+
+    return JSONResponse(
+        status_code=409,
+        content={
+            "success": False,
+            "message": "Database integrity error",
+            "data": None,
+        },
+    )
 
 
 @app.exception_handler(SQLAlchemyError)
 async def sqlalchemy_error_handler(request: Request, exc: SQLAlchemyError):
-    logger.error("Database error", extra={"path": request.url.path, "error": str(exc)})
-    return JSONResponse(status_code=500, content={
-        "success": False,
-        "message": "Database error",
-        "data": None,
-    })
+    logger.error(
+        "Database error",
+        extra={
+            "path": request.url.path,
+            "error": str(exc),
+        },
+    )
+
+    return JSONResponse(
+        status_code=500,
+        content={
+            "success": False,
+            "message": "Database error",
+            "data": None,
+        },
+    )
 
 
 @app.exception_handler(Exception)
 async def generic_exception_handler(request: Request, exc: Exception):
-    logger.exception("Unhandled exception", extra={"path": request.url.path})
-    return JSONResponse(status_code=500, content={
-        "success": False,
-        "message": "Internal server error",
-        "data": None,
-    })
+    logger.exception(
+        "Unhandled exception",
+        extra={"path": request.url.path},
+    )
+
+    return JSONResponse(
+        status_code=500,
+        content={
+            "success": False,
+            "message": "Internal server error",
+            "data": None,
+        },
+    )
 
 
-app.include_router(item_router, prefix="/api/v1")
-app.include_router(auth_router, prefix="/api/v1/auth")
-app.include_router(user_router, prefix="/api/v1/users")
+# ---------------------------------------------------------------------
+# API Routers
+# ---------------------------------------------------------------------
+
+app.include_router(auth_router, prefix="/api/v1/auth", tags=["Authentication"])
+app.include_router(user_router, prefix="/api/v1/users", tags=["Users"])
+app.include_router(item_router, prefix="/api/v1", tags=["Items"])

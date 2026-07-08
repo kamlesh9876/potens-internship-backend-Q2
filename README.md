@@ -3,7 +3,6 @@
 **Submission: Potens Internship 2026**  
 **Role: Backend**  
 **Question: Q2 – Profile-to-Recommendation API**
-# SkillPath Recommendation API
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green)

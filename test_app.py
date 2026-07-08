@@ -104,3 +104,10 @@ def test_health_endpoints_are_available():
 
     database = client.get('/health/db')
     assert database.status_code == 200
+
+
+def test_swagger_docs_are_served_without_blocking_security_policy():
+    response = client.get('/docs')
+    assert response.status_code == 200
+    assert 'swagger-ui-dist' in response.text
+    assert 'content-security-policy' not in response.headers
