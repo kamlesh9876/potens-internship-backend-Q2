@@ -67,11 +67,7 @@ I chose skill recommendations because the matching process naturally requires mu
 | ![Swagger UI Overview](sceenshots\Screenshot 2026-07-08 160555.png) | ![Swagger Recommend Endpoint](D:\potens internship\sceenshots\Screenshot 2026-07-08 160618.png) |
 | ![Swagger Auth Endpoints](D:\potens internship\sceenshots\Screenshot 2026-07-08 160818 - Copy.png) | ![Swagger Try It Out](D:\potens internship\sceenshots\Screenshot 2026-07-08 160835.png) |
 | ![SQLite Schema](sceenshots\Screenshot 2026-07-08 160929.png) | ![SQLite Users Table](sceenshots\Screenshot 2026-07-08 161011.png) |
-| ![SQLite Items Table](sceenshots\Screenshot 2026-07-08 161027.png) |
- 
-
- 
----
+| ![SQLite Items Table](sceenshots\Screenshot 2026-07-08 161027.png) | ![SQLite Query Example](sceenshots\Screenshot 2026-07-08 161027.png) |
 
 ---
 
