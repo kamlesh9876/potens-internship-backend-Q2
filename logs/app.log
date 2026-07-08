@@ -3716,3 +3716,2021 @@
 2026-07-08 08:32:44,369 INFO skillpath User login logged: admin@test.com (ID: 1)
 2026-07-08 08:32:44,376 INFO skillpath Incoming request
 2026-07-08 08:32:44,378 INFO skillpath Request completed
+2026-07-08 13:36:39,224 INFO skillpath Cache cleared
+2026-07-08 13:36:43,271 INFO skillpath Cache cleared
+2026-07-08 13:37:03,366 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,380 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,406 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,408 INFO skillpath Updated Item with id 1
+2026-07-08 13:37:03,418 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,420 INFO skillpath Deleted Item with id 1
+2026-07-08 13:37:03,429 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,432 INFO skillpath Created Item with id 2
+2026-07-08 13:37:03,434 INFO skillpath Created Item with id 3
+2026-07-08 13:37:03,445 INFO skillpath Created Item with id 1
+2026-07-08 13:37:03,447 INFO skillpath Created Item with id 2
+2026-07-08 13:37:03,825 INFO skillpath Password hashed successfully
+2026-07-08 13:37:03,832 INFO skillpath Created User with id 1
+2026-07-08 13:37:04,104 INFO skillpath Password hashed successfully
+2026-07-08 13:37:04,107 INFO skillpath Created User with id 1
+2026-07-08 13:37:04,381 INFO skillpath Password hashed successfully
+2026-07-08 13:37:04,384 INFO skillpath Created User with id 1
+2026-07-08 13:37:04,677 INFO skillpath Password hashed successfully
+2026-07-08 13:37:04,679 INFO skillpath Created User with id 1
+2026-07-08 13:37:04,967 INFO skillpath Password hashed successfully
+2026-07-08 13:37:04,969 INFO skillpath Created User with id 1
+2026-07-08 13:37:05,246 INFO skillpath Password hashed successfully
+2026-07-08 13:37:05,248 INFO skillpath Created User with id 1
+2026-07-08 13:37:48,719 INFO skillpath Password hashed successfully
+2026-07-08 13:37:48,721 INFO skillpath User registered: test@example.com
+2026-07-08 13:37:48,745 INFO skillpath User logged in: test@example.com
+2026-07-08 13:37:49,757 INFO skillpath Created item: Test Course
+2026-07-08 13:37:49,788 INFO skillpath Updated item 1
+2026-07-08 13:37:49,800 INFO skillpath Deleted item 1
+2026-07-08 13:37:49,835 INFO skillpath Generated explanation for item 1: Python Course
+2026-07-08 13:38:55,056 INFO skillpath Password hashed successfully
+2026-07-08 13:38:55,068 INFO skillpath Created User with id 1
+2026-07-08 13:38:55,069 INFO skillpath User registered: test@example.com
+2026-07-08 13:38:55,372 INFO skillpath Password hashed successfully
+2026-07-08 13:38:55,834 INFO skillpath Password hashed successfully
+2026-07-08 13:38:56,451 INFO skillpath Updated User with id 1
+2026-07-08 13:38:56,508 INFO skillpath Created access token for subject: 1
+2026-07-08 13:38:56,509 INFO skillpath User logged in: user@test.com
+2026-07-08 13:38:57,643 INFO skillpath Created Item with id 1
+2026-07-08 13:38:57,643 INFO skillpath Created item: Test Course
+2026-07-08 13:38:57,726 INFO skillpath Updated Item with id 1
+2026-07-08 13:38:57,726 INFO skillpath Updated item 1
+2026-07-08 13:38:57,748 INFO skillpath Deleted Item with id 1
+2026-07-08 13:38:57,748 INFO skillpath Deleted item 1
+2026-07-08 13:38:57,811 INFO skillpath Generated explanation for item 1: Python Bootcamp
+2026-07-08 13:38:57,829 INFO skillpath Listed 1 items with filters: {'category': 'Programming'}, search: None, sort: None
+2026-07-08 13:38:57,853 INFO skillpath Listed 2 items with filters: None, search: Python, sort: None
+2026-07-08 13:38:57,878 INFO skillpath Listed 3 items with filters: None, search: None, sort: price
+2026-07-08 13:38:57,909 INFO skillpath Listed 3 items with filters: None, search: None, sort: None
+2026-07-08 13:40:06,244 INFO skillpath Password hashed successfully
+2026-07-08 13:40:06,255 INFO skillpath Created User with id 1
+2026-07-08 13:40:06,255 INFO skillpath User registered: test@example.com
+2026-07-08 13:40:06,528 INFO skillpath Password hashed successfully
+2026-07-08 13:40:06,800 INFO skillpath Password hashed successfully
+2026-07-08 13:40:07,069 INFO skillpath Updated User with id 1
+2026-07-08 13:40:07,107 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:07,107 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:07,150 INFO skillpath Created Item with id 1
+2026-07-08 13:40:07,151 INFO skillpath Created item: Test Course
+2026-07-08 13:40:07,219 INFO skillpath Updated Item with id 1
+2026-07-08 13:40:07,220 INFO skillpath Updated item 1
+2026-07-08 13:40:07,235 INFO skillpath Deleted Item with id 1
+2026-07-08 13:40:07,236 INFO skillpath Deleted item 1
+2026-07-08 13:40:08,268 INFO skillpath Generated explanation for item 1: Python Bootcamp
+2026-07-08 13:40:08,281 INFO skillpath Listed 1 items with filters: {'category': 'Programming'}, search: None, sort: None
+2026-07-08 13:40:08,298 INFO skillpath Listed 2 items with filters: None, search: Python, sort: None
+2026-07-08 13:40:08,321 INFO skillpath Listed 3 items with filters: None, search: None, sort: price
+2026-07-08 13:40:08,339 INFO skillpath Listed 3 items with filters: None, search: None, sort: None
+2026-07-08 13:40:37,792 INFO skillpath Password hashed successfully
+2026-07-08 13:40:37,802 INFO skillpath Created User with id 1
+2026-07-08 13:40:37,802 INFO skillpath User registered: test@example.com
+2026-07-08 13:40:38,121 INFO skillpath Password hashed successfully
+2026-07-08 13:40:38,390 INFO skillpath Password hashed successfully
+2026-07-08 13:40:38,668 INFO skillpath Updated User with id 1
+2026-07-08 13:40:38,701 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:38,701 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:38,741 INFO skillpath Created Item with id 1
+2026-07-08 13:40:38,741 INFO skillpath Created item: Test Course
+2026-07-08 13:40:38,830 INFO skillpath Updated Item with id 1
+2026-07-08 13:40:38,831 INFO skillpath Updated item 1
+2026-07-08 13:40:38,858 INFO skillpath Deleted Item with id 1
+2026-07-08 13:40:38,858 INFO skillpath Deleted item 1
+2026-07-08 13:40:38,880 INFO skillpath Generated 2 recommendations for profile with goal: Career Change
+2026-07-08 13:40:38,900 INFO skillpath Generated explanation for item 1: Python Bootcamp
+2026-07-08 13:40:38,917 INFO skillpath Listed 1 items with filters: {'category': 'Programming'}, search: None, sort: None
+2026-07-08 13:40:38,949 INFO skillpath Listed 2 items with filters: None, search: Python, sort: None
+2026-07-08 13:40:38,969 INFO skillpath Listed 3 items with filters: None, search: None, sort: price
+2026-07-08 13:40:38,994 INFO skillpath Listed 3 items with filters: None, search: None, sort: None
+2026-07-08 13:40:54,590 INFO skillpath Incoming request
+2026-07-08 13:40:54,992 INFO skillpath Password hashed successfully
+2026-07-08 13:40:55,002 INFO skillpath Created User with id 1
+2026-07-08 13:40:55,002 INFO skillpath User registered: newuser@example.com
+2026-07-08 13:40:55,007 INFO skillpath Request completed
+2026-07-08 13:40:55,007 INFO skillpath Sending welcome email to newuser@example.com for user newuser
+2026-07-08 13:40:55,284 INFO skillpath Password hashed successfully
+2026-07-08 13:40:55,290 INFO skillpath Incoming request
+2026-07-08 13:40:55,297 INFO skillpath Request completed
+2026-07-08 13:40:55,570 INFO skillpath Password hashed successfully
+2026-07-08 13:40:55,576 INFO skillpath Incoming request
+2026-07-08 13:40:55,582 INFO skillpath Request completed
+2026-07-08 13:40:55,602 INFO skillpath Incoming request
+2026-07-08 13:40:55,610 WARNING skillpath Validation error
+2026-07-08 13:40:55,610 INFO skillpath Request completed
+2026-07-08 13:40:55,883 INFO skillpath Password hashed successfully
+2026-07-08 13:40:55,888 INFO skillpath Incoming request
+2026-07-08 13:40:56,169 INFO skillpath Updated User with id 1
+2026-07-08 13:40:56,214 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:56,215 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:56,217 INFO skillpath Request completed
+2026-07-08 13:40:56,220 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:40:56,247 INFO skillpath Incoming request
+2026-07-08 13:40:56,257 INFO skillpath Request completed
+2026-07-08 13:40:56,582 INFO skillpath Password hashed successfully
+2026-07-08 13:40:56,593 INFO skillpath Incoming request
+2026-07-08 13:40:56,870 INFO skillpath Updated User with id 1
+2026-07-08 13:40:56,871 INFO skillpath Request completed
+2026-07-08 13:40:57,142 INFO skillpath Password hashed successfully
+2026-07-08 13:40:57,147 INFO skillpath Incoming request
+2026-07-08 13:40:57,410 INFO skillpath Updated User with id 1
+2026-07-08 13:40:57,410 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:57,410 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:57,414 INFO skillpath Request completed
+2026-07-08 13:40:57,415 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:40:57,419 INFO skillpath Incoming request
+2026-07-08 13:40:57,422 INFO skillpath Token decoded successfully
+2026-07-08 13:40:57,428 INFO skillpath Request completed
+2026-07-08 13:40:57,448 INFO skillpath Incoming request
+2026-07-08 13:40:57,450 INFO skillpath Request completed
+2026-07-08 13:40:57,469 INFO skillpath Incoming request
+2026-07-08 13:40:57,475 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:40:57,475 INFO skillpath Request completed
+2026-07-08 13:40:57,493 INFO skillpath Incoming request
+2026-07-08 13:40:57,496 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:40:57,497 INFO skillpath Request completed
+2026-07-08 13:40:57,769 INFO skillpath Password hashed successfully
+2026-07-08 13:40:57,775 INFO skillpath Incoming request
+2026-07-08 13:40:58,040 INFO skillpath Updated User with id 1
+2026-07-08 13:40:58,043 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:58,043 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:40:58,046 INFO skillpath Request completed
+2026-07-08 13:40:58,047 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:40:58,051 INFO skillpath Incoming request
+2026-07-08 13:40:58,054 INFO skillpath Token decoded successfully
+2026-07-08 13:40:58,057 INFO skillpath Listed 1 users
+2026-07-08 13:40:58,060 INFO skillpath Request completed
+2026-07-08 13:40:58,335 INFO skillpath Password hashed successfully
+2026-07-08 13:40:58,339 INFO skillpath Incoming request
+2026-07-08 13:40:58,617 INFO skillpath Updated User with id 1
+2026-07-08 13:40:58,617 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:58,617 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:58,619 INFO skillpath Request completed
+2026-07-08 13:40:58,621 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:40:58,626 INFO skillpath Incoming request
+2026-07-08 13:40:58,629 INFO skillpath Token decoded successfully
+2026-07-08 13:40:58,632 INFO skillpath Request completed
+2026-07-08 13:40:58,916 INFO skillpath Password hashed successfully
+2026-07-08 13:40:58,920 INFO skillpath Incoming request
+2026-07-08 13:40:59,190 INFO skillpath Updated User with id 1
+2026-07-08 13:40:59,190 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:59,190 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:59,193 INFO skillpath Request completed
+2026-07-08 13:40:59,194 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:40:59,198 INFO skillpath Incoming request
+2026-07-08 13:40:59,200 INFO skillpath Token decoded successfully
+2026-07-08 13:40:59,708 INFO skillpath Password hashed successfully
+2026-07-08 13:40:59,710 INFO skillpath Updated User with id 1
+2026-07-08 13:40:59,712 INFO skillpath Password changed for user: user@test.com
+2026-07-08 13:40:59,713 INFO skillpath Request completed
+2026-07-08 13:40:59,715 INFO skillpath Password change logged: user@test.com (ID: 1)
+2026-07-08 13:40:59,718 INFO skillpath Incoming request
+2026-07-08 13:40:59,972 INFO skillpath Updated User with id 1
+2026-07-08 13:40:59,973 INFO skillpath Created access token for subject: 1
+2026-07-08 13:40:59,974 INFO skillpath User logged in: user@test.com
+2026-07-08 13:40:59,976 INFO skillpath Request completed
+2026-07-08 13:40:59,978 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:00,265 INFO skillpath Password hashed successfully
+2026-07-08 13:41:00,270 INFO skillpath Incoming request
+2026-07-08 13:41:00,550 INFO skillpath Updated User with id 1
+2026-07-08 13:41:00,551 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:00,551 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:00,553 INFO skillpath Request completed
+2026-07-08 13:41:00,554 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:00,558 INFO skillpath Incoming request
+2026-07-08 13:41:00,563 INFO skillpath Token decoded successfully
+2026-07-08 13:41:00,828 INFO skillpath Request completed
+2026-07-08 13:41:00,850 INFO skillpath Incoming request
+2026-07-08 13:41:00,853 INFO skillpath Request completed
+2026-07-08 13:41:01,135 INFO skillpath Password hashed successfully
+2026-07-08 13:41:01,140 INFO skillpath Incoming request
+2026-07-08 13:41:01,407 INFO skillpath Updated User with id 1
+2026-07-08 13:41:01,407 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:01,408 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:01,410 INFO skillpath Request completed
+2026-07-08 13:41:01,412 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:01,415 INFO skillpath Incoming request
+2026-07-08 13:41:01,418 ERROR skillpath Token decoding failed: Signature verification failed.
+2026-07-08 13:41:01,419 INFO skillpath Request completed
+2026-07-08 13:41:01,698 INFO skillpath Password hashed successfully
+2026-07-08 13:41:01,702 INFO skillpath Incoming request
+2026-07-08 13:41:01,956 INFO skillpath Updated User with id 1
+2026-07-08 13:41:01,956 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:01,956 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:01,958 INFO skillpath Request completed
+2026-07-08 13:41:01,960 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:01,964 INFO skillpath Incoming request
+2026-07-08 13:41:01,967 INFO skillpath Token decoded successfully
+2026-07-08 13:41:01,972 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:41:01,975 INFO skillpath Request completed
+2026-07-08 13:41:02,248 INFO skillpath Password hashed successfully
+2026-07-08 13:41:02,253 INFO skillpath Incoming request
+2026-07-08 13:41:02,516 INFO skillpath Updated User with id 1
+2026-07-08 13:41:02,516 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:02,517 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:02,519 INFO skillpath Request completed
+2026-07-08 13:41:02,519 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:02,523 INFO skillpath Incoming request
+2026-07-08 13:41:02,525 INFO skillpath Token decoded successfully
+2026-07-08 13:41:02,530 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:41:02,533 INFO skillpath Request completed
+2026-07-08 13:41:02,820 INFO skillpath Password hashed successfully
+2026-07-08 13:41:02,825 INFO skillpath Incoming request
+2026-07-08 13:41:03,096 INFO skillpath Updated User with id 1
+2026-07-08 13:41:03,097 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:03,097 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:03,098 INFO skillpath Request completed
+2026-07-08 13:41:03,100 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:03,103 INFO skillpath Incoming request
+2026-07-08 13:41:03,106 INFO skillpath Token decoded successfully
+2026-07-08 13:41:03,108 INFO skillpath Listed 1 items with filters: {'category': 'Programming', 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:41:03,110 INFO skillpath Request completed
+2026-07-08 13:41:03,382 INFO skillpath Password hashed successfully
+2026-07-08 13:41:03,387 INFO skillpath Incoming request
+2026-07-08 13:41:03,648 INFO skillpath Updated User with id 1
+2026-07-08 13:41:03,650 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:03,650 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:03,653 INFO skillpath Request completed
+2026-07-08 13:41:03,653 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:03,656 INFO skillpath Incoming request
+2026-07-08 13:41:03,659 INFO skillpath Token decoded successfully
+2026-07-08 13:41:03,664 INFO skillpath Listed 1 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': 80.0, 'price_max': 100.0}, search: None, sort: None
+2026-07-08 13:41:03,665 INFO skillpath Request completed
+2026-07-08 13:41:03,940 INFO skillpath Password hashed successfully
+2026-07-08 13:41:03,944 INFO skillpath Incoming request
+2026-07-08 13:41:04,215 INFO skillpath Updated User with id 1
+2026-07-08 13:41:04,215 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:04,215 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:04,218 INFO skillpath Request completed
+2026-07-08 13:41:04,219 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:04,224 INFO skillpath Incoming request
+2026-07-08 13:41:04,226 INFO skillpath Token decoded successfully
+2026-07-08 13:41:04,233 INFO skillpath Listed 2 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: Python, sort: None
+2026-07-08 13:41:04,236 INFO skillpath Request completed
+2026-07-08 13:41:04,518 INFO skillpath Password hashed successfully
+2026-07-08 13:41:04,523 INFO skillpath Incoming request
+2026-07-08 13:41:04,809 INFO skillpath Updated User with id 1
+2026-07-08 13:41:04,810 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:04,810 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:04,812 INFO skillpath Request completed
+2026-07-08 13:41:04,813 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:04,818 INFO skillpath Incoming request
+2026-07-08 13:41:04,820 INFO skillpath Token decoded successfully
+2026-07-08 13:41:04,823 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: price
+2026-07-08 13:41:04,825 INFO skillpath Request completed
+2026-07-08 13:41:04,848 INFO skillpath Incoming request
+2026-07-08 13:41:04,853 INFO skillpath Request completed
+2026-07-08 13:41:05,153 INFO skillpath Password hashed successfully
+2026-07-08 13:41:05,157 INFO skillpath Incoming request
+2026-07-08 13:41:05,435 INFO skillpath Updated User with id 1
+2026-07-08 13:41:05,436 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:05,436 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:05,438 INFO skillpath Request completed
+2026-07-08 13:41:05,440 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:05,444 INFO skillpath Incoming request
+2026-07-08 13:41:05,447 INFO skillpath Token decoded successfully
+2026-07-08 13:41:05,448 INFO skillpath Request completed
+2026-07-08 13:41:05,726 INFO skillpath Password hashed successfully
+2026-07-08 13:41:05,730 INFO skillpath Incoming request
+2026-07-08 13:41:06,006 INFO skillpath Updated User with id 1
+2026-07-08 13:41:06,008 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:06,008 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:06,012 INFO skillpath Request completed
+2026-07-08 13:41:06,012 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:06,016 INFO skillpath Incoming request
+2026-07-08 13:41:06,019 INFO skillpath Token decoded successfully
+2026-07-08 13:41:06,026 INFO skillpath Created Item with id 1
+2026-07-08 13:41:06,026 INFO skillpath Created item: New Course
+2026-07-08 13:41:06,028 INFO skillpath Cache cleared
+2026-07-08 13:41:06,029 INFO skillpath Request completed
+2026-07-08 13:41:06,031 INFO skillpath Generating analytics for item 1
+2026-07-08 13:41:06,052 INFO skillpath Incoming request
+2026-07-08 13:41:06,060 INFO skillpath Request completed
+2026-07-08 13:41:06,330 INFO skillpath Password hashed successfully
+2026-07-08 13:41:06,333 INFO skillpath Incoming request
+2026-07-08 13:41:06,610 INFO skillpath Updated User with id 1
+2026-07-08 13:41:06,612 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:06,612 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:06,615 INFO skillpath Request completed
+2026-07-08 13:41:06,616 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:06,619 INFO skillpath Incoming request
+2026-07-08 13:41:06,623 INFO skillpath Token decoded successfully
+2026-07-08 13:41:06,625 INFO skillpath Request completed
+2026-07-08 13:41:06,915 INFO skillpath Password hashed successfully
+2026-07-08 13:41:06,919 INFO skillpath Incoming request
+2026-07-08 13:41:07,181 INFO skillpath Updated User with id 1
+2026-07-08 13:41:07,182 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:07,182 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:07,185 INFO skillpath Request completed
+2026-07-08 13:41:07,185 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:07,190 INFO skillpath Incoming request
+2026-07-08 13:41:07,191 INFO skillpath Token decoded successfully
+2026-07-08 13:41:07,197 INFO skillpath Created Item with id 1
+2026-07-08 13:41:07,198 INFO skillpath Created item: 
+2026-07-08 13:41:07,198 INFO skillpath Cache cleared
+2026-07-08 13:41:07,200 INFO skillpath Request completed
+2026-07-08 13:41:07,201 INFO skillpath Generating analytics for item 1
+2026-07-08 13:41:08,242 INFO skillpath Password hashed successfully
+2026-07-08 13:41:08,249 INFO skillpath Incoming request
+2026-07-08 13:41:08,514 INFO skillpath Updated User with id 1
+2026-07-08 13:41:08,514 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:08,514 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:08,516 INFO skillpath Request completed
+2026-07-08 13:41:08,517 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:08,522 INFO skillpath Incoming request
+2026-07-08 13:41:08,525 INFO skillpath Token decoded successfully
+2026-07-08 13:41:08,530 INFO skillpath Request completed
+2026-07-08 13:41:08,805 INFO skillpath Password hashed successfully
+2026-07-08 13:41:08,809 INFO skillpath Incoming request
+2026-07-08 13:41:09,073 INFO skillpath Updated User with id 1
+2026-07-08 13:41:09,073 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:09,073 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:09,076 INFO skillpath Request completed
+2026-07-08 13:41:09,078 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:09,083 INFO skillpath Incoming request
+2026-07-08 13:41:09,086 INFO skillpath Token decoded successfully
+2026-07-08 13:41:09,088 INFO skillpath Request completed
+2026-07-08 13:41:09,112 INFO skillpath Incoming request
+2026-07-08 13:41:09,116 INFO skillpath Request completed
+2026-07-08 13:41:09,390 INFO skillpath Password hashed successfully
+2026-07-08 13:41:09,396 INFO skillpath Incoming request
+2026-07-08 13:41:09,657 INFO skillpath Updated User with id 1
+2026-07-08 13:41:09,658 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:09,658 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:09,659 INFO skillpath Request completed
+2026-07-08 13:41:09,660 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:09,666 INFO skillpath Incoming request
+2026-07-08 13:41:09,669 INFO skillpath Token decoded successfully
+2026-07-08 13:41:09,677 INFO skillpath Updated Item with id 1
+2026-07-08 13:41:09,678 INFO skillpath Updated item 1
+2026-07-08 13:41:09,679 INFO skillpath Request completed
+2026-07-08 13:41:09,954 INFO skillpath Password hashed successfully
+2026-07-08 13:41:09,959 INFO skillpath Incoming request
+2026-07-08 13:41:10,219 INFO skillpath Updated User with id 1
+2026-07-08 13:41:10,219 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:10,219 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:10,221 INFO skillpath Request completed
+2026-07-08 13:41:10,221 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:10,225 INFO skillpath Incoming request
+2026-07-08 13:41:10,228 INFO skillpath Token decoded successfully
+2026-07-08 13:41:10,233 INFO skillpath Request completed
+2026-07-08 13:41:10,257 INFO skillpath Incoming request
+2026-07-08 13:41:10,260 INFO skillpath Request completed
+2026-07-08 13:41:10,544 INFO skillpath Password hashed successfully
+2026-07-08 13:41:10,548 INFO skillpath Incoming request
+2026-07-08 13:41:10,806 INFO skillpath Updated User with id 1
+2026-07-08 13:41:10,807 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:10,807 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:10,810 INFO skillpath Request completed
+2026-07-08 13:41:10,810 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:10,816 INFO skillpath Incoming request
+2026-07-08 13:41:10,819 INFO skillpath Token decoded successfully
+2026-07-08 13:41:10,821 INFO skillpath Request completed
+2026-07-08 13:41:11,095 INFO skillpath Password hashed successfully
+2026-07-08 13:41:11,100 INFO skillpath Incoming request
+2026-07-08 13:41:11,360 INFO skillpath Updated User with id 1
+2026-07-08 13:41:11,362 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:11,362 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:11,365 INFO skillpath Request completed
+2026-07-08 13:41:11,365 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:11,370 INFO skillpath Incoming request
+2026-07-08 13:41:11,373 INFO skillpath Token decoded successfully
+2026-07-08 13:41:11,376 INFO skillpath Deleted Item with id 1
+2026-07-08 13:41:11,376 INFO skillpath Deleted item 1
+2026-07-08 13:41:11,378 INFO skillpath Request completed
+2026-07-08 13:41:11,380 INFO skillpath Incoming request
+2026-07-08 13:41:11,384 INFO skillpath Token decoded successfully
+2026-07-08 13:41:11,388 INFO skillpath Request completed
+2026-07-08 13:41:11,668 INFO skillpath Password hashed successfully
+2026-07-08 13:41:11,672 INFO skillpath Incoming request
+2026-07-08 13:41:11,928 INFO skillpath Updated User with id 1
+2026-07-08 13:41:11,928 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:11,928 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:11,932 INFO skillpath Request completed
+2026-07-08 13:41:11,934 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:11,939 INFO skillpath Incoming request
+2026-07-08 13:41:11,941 INFO skillpath Token decoded successfully
+2026-07-08 13:41:11,944 INFO skillpath Request completed
+2026-07-08 13:41:11,965 INFO skillpath Incoming request
+2026-07-08 13:41:11,968 INFO skillpath Request completed
+2026-07-08 13:41:12,232 INFO skillpath Password hashed successfully
+2026-07-08 13:41:12,235 INFO skillpath Incoming request
+2026-07-08 13:41:12,489 INFO skillpath Updated User with id 1
+2026-07-08 13:41:12,489 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:12,489 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:12,492 INFO skillpath Request completed
+2026-07-08 13:41:12,493 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:12,498 INFO skillpath Incoming request
+2026-07-08 13:41:12,500 INFO skillpath Token decoded successfully
+2026-07-08 13:41:12,502 INFO skillpath Request completed
+2026-07-08 13:41:12,773 INFO skillpath Password hashed successfully
+2026-07-08 13:41:12,776 INFO skillpath Incoming request
+2026-07-08 13:41:13,057 INFO skillpath Updated User with id 1
+2026-07-08 13:41:13,057 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:13,057 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:13,060 INFO skillpath Request completed
+2026-07-08 13:41:13,060 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:13,065 INFO skillpath Incoming request
+2026-07-08 13:41:13,068 INFO skillpath Token decoded successfully
+2026-07-08 13:41:13,073 WARNING skillpath Validation error
+2026-07-08 13:41:13,073 INFO skillpath Request completed
+2026-07-08 13:41:13,111 INFO skillpath Incoming request
+2026-07-08 13:41:13,116 INFO skillpath Request completed
+2026-07-08 13:41:13,134 INFO skillpath Incoming request
+2026-07-08 13:41:13,138 INFO skillpath Request completed
+2026-07-08 13:41:13,155 INFO skillpath Incoming request
+2026-07-08 13:41:13,159 INFO skillpath Request completed
+2026-07-08 13:41:13,175 INFO skillpath Incoming request
+2026-07-08 13:41:13,178 INFO skillpath Request completed
+2026-07-08 13:41:13,450 INFO skillpath Password hashed successfully
+2026-07-08 13:41:13,453 INFO skillpath Incoming request
+2026-07-08 13:41:13,713 INFO skillpath Updated User with id 1
+2026-07-08 13:41:13,713 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:13,714 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:13,717 INFO skillpath Request completed
+2026-07-08 13:41:13,718 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:13,722 INFO skillpath Incoming request
+2026-07-08 13:41:13,723 INFO skillpath Token decoded successfully
+2026-07-08 13:41:13,725 INFO skillpath Request completed
+2026-07-08 13:41:13,999 INFO skillpath Password hashed successfully
+2026-07-08 13:41:14,004 INFO skillpath Incoming request
+2026-07-08 13:41:14,269 INFO skillpath Updated User with id 1
+2026-07-08 13:41:14,269 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:14,269 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:14,273 INFO skillpath Request completed
+2026-07-08 13:41:14,274 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:14,278 INFO skillpath Incoming request
+2026-07-08 13:41:14,282 INFO skillpath Token decoded successfully
+2026-07-08 13:41:14,291 INFO skillpath Updated User with id 1
+2026-07-08 13:41:14,291 INFO skillpath User updated: user@test.com
+2026-07-08 13:41:14,293 INFO skillpath Request completed
+2026-07-08 13:41:14,310 INFO skillpath Incoming request
+2026-07-08 13:41:14,314 INFO skillpath Request completed
+2026-07-08 13:41:14,597 INFO skillpath Password hashed successfully
+2026-07-08 13:41:14,610 INFO skillpath Incoming request
+2026-07-08 13:41:14,869 INFO skillpath Updated User with id 1
+2026-07-08 13:41:14,871 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:14,871 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:14,873 INFO skillpath Request completed
+2026-07-08 13:41:14,875 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:14,880 INFO skillpath Incoming request
+2026-07-08 13:41:14,883 INFO skillpath Token decoded successfully
+2026-07-08 13:41:14,886 INFO skillpath Listed 1 users
+2026-07-08 13:41:14,887 INFO skillpath Request completed
+2026-07-08 13:41:15,166 INFO skillpath Password hashed successfully
+2026-07-08 13:41:15,172 INFO skillpath Incoming request
+2026-07-08 13:41:15,434 INFO skillpath Updated User with id 1
+2026-07-08 13:41:15,434 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:15,434 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:15,436 INFO skillpath Request completed
+2026-07-08 13:41:15,438 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:15,443 INFO skillpath Incoming request
+2026-07-08 13:41:15,447 INFO skillpath Token decoded successfully
+2026-07-08 13:41:15,449 INFO skillpath Request completed
+2026-07-08 13:41:15,722 INFO skillpath Password hashed successfully
+2026-07-08 13:41:15,981 INFO skillpath Password hashed successfully
+2026-07-08 13:41:15,986 INFO skillpath Incoming request
+2026-07-08 13:41:16,253 INFO skillpath Updated User with id 2
+2026-07-08 13:41:16,254 INFO skillpath Created access token for subject: 2
+2026-07-08 13:41:16,254 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:16,256 INFO skillpath Request completed
+2026-07-08 13:41:16,256 INFO skillpath User login logged: admin@test.com (ID: 2)
+2026-07-08 13:41:16,261 INFO skillpath Incoming request
+2026-07-08 13:41:16,263 INFO skillpath Request completed
+2026-07-08 13:41:16,557 INFO skillpath Password hashed successfully
+2026-07-08 13:41:16,561 INFO skillpath Incoming request
+2026-07-08 13:41:16,835 INFO skillpath Updated User with id 1
+2026-07-08 13:41:16,835 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:16,836 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:16,838 INFO skillpath Request completed
+2026-07-08 13:41:16,840 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:16,844 INFO skillpath Incoming request
+2026-07-08 13:41:16,845 INFO skillpath Request completed
+2026-07-08 13:41:17,135 INFO skillpath Password hashed successfully
+2026-07-08 13:41:17,394 INFO skillpath Password hashed successfully
+2026-07-08 13:41:17,398 INFO skillpath Incoming request
+2026-07-08 13:41:17,662 INFO skillpath Updated User with id 2
+2026-07-08 13:41:17,662 INFO skillpath Created access token for subject: 2
+2026-07-08 13:41:17,663 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:17,665 INFO skillpath Request completed
+2026-07-08 13:41:17,666 INFO skillpath User login logged: admin@test.com (ID: 2)
+2026-07-08 13:41:17,672 INFO skillpath Incoming request
+2026-07-08 13:41:17,674 INFO skillpath Request completed
+2026-07-08 13:41:17,983 INFO skillpath Password hashed successfully
+2026-07-08 13:41:18,124 INFO skillpath Incoming request
+2026-07-08 13:41:18,405 INFO skillpath Updated User with id 1
+2026-07-08 13:41:18,407 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:18,407 INFO skillpath User logged in: user@test.com
+2026-07-08 13:41:18,410 INFO skillpath Request completed
+2026-07-08 13:41:18,412 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:41:18,416 INFO skillpath Incoming request
+2026-07-08 13:41:18,418 INFO skillpath Request completed
+2026-07-08 13:41:18,728 INFO skillpath Password hashed successfully
+2026-07-08 13:41:19,008 INFO skillpath Password hashed successfully
+2026-07-08 13:41:19,015 INFO skillpath Incoming request
+2026-07-08 13:41:19,323 INFO skillpath Updated User with id 2
+2026-07-08 13:41:19,324 INFO skillpath Created access token for subject: 2
+2026-07-08 13:41:19,324 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:19,326 INFO skillpath Request completed
+2026-07-08 13:41:19,326 INFO skillpath User login logged: admin@test.com (ID: 2)
+2026-07-08 13:41:19,333 INFO skillpath Incoming request
+2026-07-08 13:41:19,334 INFO skillpath Request completed
+2026-07-08 13:41:19,619 INFO skillpath Password hashed successfully
+2026-07-08 13:41:19,881 INFO skillpath Password hashed successfully
+2026-07-08 13:41:19,886 INFO skillpath Incoming request
+2026-07-08 13:41:20,151 INFO skillpath Updated User with id 2
+2026-07-08 13:41:20,152 INFO skillpath Created access token for subject: 2
+2026-07-08 13:41:20,152 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:20,154 INFO skillpath Request completed
+2026-07-08 13:41:20,155 INFO skillpath User login logged: admin@test.com (ID: 2)
+2026-07-08 13:41:20,160 INFO skillpath Incoming request
+2026-07-08 13:41:20,162 INFO skillpath Request completed
+2026-07-08 13:41:20,446 INFO skillpath Password hashed successfully
+2026-07-08 13:41:20,450 INFO skillpath Incoming request
+2026-07-08 13:41:20,725 INFO skillpath Updated User with id 1
+2026-07-08 13:41:20,726 INFO skillpath Created access token for subject: 1
+2026-07-08 13:41:20,726 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:41:20,729 INFO skillpath Request completed
+2026-07-08 13:41:20,731 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:41:20,735 INFO skillpath Incoming request
+2026-07-08 13:41:20,736 INFO skillpath Request completed
+2026-07-08 13:43:18,628 INFO skillpath Incoming request
+2026-07-08 13:43:18,944 INFO skillpath Password hashed successfully
+2026-07-08 13:43:18,955 INFO skillpath Created User with id 1
+2026-07-08 13:43:18,955 INFO skillpath User registered: newuser@example.com
+2026-07-08 13:43:18,961 INFO skillpath Request completed
+2026-07-08 13:43:18,962 INFO skillpath Sending welcome email to newuser@example.com for user newuser
+2026-07-08 13:43:19,229 INFO skillpath Password hashed successfully
+2026-07-08 13:43:19,236 INFO skillpath Incoming request
+2026-07-08 13:43:19,244 INFO skillpath Request completed
+2026-07-08 13:43:19,515 INFO skillpath Password hashed successfully
+2026-07-08 13:43:19,520 INFO skillpath Incoming request
+2026-07-08 13:43:19,526 INFO skillpath Request completed
+2026-07-08 13:43:19,544 INFO skillpath Incoming request
+2026-07-08 13:43:19,553 WARNING skillpath Validation error
+2026-07-08 13:43:19,553 INFO skillpath Request completed
+2026-07-08 13:43:19,860 INFO skillpath Password hashed successfully
+2026-07-08 13:43:19,867 INFO skillpath Incoming request
+2026-07-08 13:43:20,134 INFO skillpath Updated User with id 1
+2026-07-08 13:43:20,165 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:20,166 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:20,168 INFO skillpath Request completed
+2026-07-08 13:43:20,170 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:20,191 INFO skillpath Incoming request
+2026-07-08 13:43:20,201 INFO skillpath Request completed
+2026-07-08 13:43:20,478 INFO skillpath Password hashed successfully
+2026-07-08 13:43:20,484 INFO skillpath Incoming request
+2026-07-08 13:43:20,753 INFO skillpath Updated User with id 1
+2026-07-08 13:43:20,754 INFO skillpath Request completed
+2026-07-08 13:43:21,016 INFO skillpath Password hashed successfully
+2026-07-08 13:43:21,020 INFO skillpath Incoming request
+2026-07-08 13:43:21,290 INFO skillpath Updated User with id 1
+2026-07-08 13:43:21,292 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:21,293 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:21,294 INFO skillpath Request completed
+2026-07-08 13:43:21,296 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:21,300 INFO skillpath Incoming request
+2026-07-08 13:43:21,302 INFO skillpath Token decoded successfully
+2026-07-08 13:43:21,306 INFO skillpath Request completed
+2026-07-08 13:43:21,323 INFO skillpath Incoming request
+2026-07-08 13:43:21,328 INFO skillpath Request completed
+2026-07-08 13:43:21,345 INFO skillpath Incoming request
+2026-07-08 13:43:21,349 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:43:21,350 INFO skillpath Request completed
+2026-07-08 13:43:21,371 INFO skillpath Incoming request
+2026-07-08 13:43:21,374 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:43:21,375 INFO skillpath Request completed
+2026-07-08 13:43:21,639 INFO skillpath Password hashed successfully
+2026-07-08 13:43:21,644 INFO skillpath Incoming request
+2026-07-08 13:43:21,908 INFO skillpath Updated User with id 1
+2026-07-08 13:43:21,908 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:21,909 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:21,911 INFO skillpath Request completed
+2026-07-08 13:43:21,911 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:21,915 INFO skillpath Incoming request
+2026-07-08 13:43:21,917 INFO skillpath Token decoded successfully
+2026-07-08 13:43:21,921 INFO skillpath Listed 1 users
+2026-07-08 13:43:21,924 INFO skillpath Request completed
+2026-07-08 13:43:22,201 INFO skillpath Password hashed successfully
+2026-07-08 13:43:22,206 INFO skillpath Incoming request
+2026-07-08 13:43:22,471 INFO skillpath Updated User with id 1
+2026-07-08 13:43:22,471 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:22,471 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:22,473 INFO skillpath Request completed
+2026-07-08 13:43:22,473 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:22,480 INFO skillpath Incoming request
+2026-07-08 13:43:22,482 INFO skillpath Token decoded successfully
+2026-07-08 13:43:22,484 INFO skillpath Request completed
+2026-07-08 13:43:22,764 INFO skillpath Password hashed successfully
+2026-07-08 13:43:22,768 INFO skillpath Incoming request
+2026-07-08 13:43:23,038 INFO skillpath Updated User with id 1
+2026-07-08 13:43:23,040 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:23,040 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:23,043 INFO skillpath Request completed
+2026-07-08 13:43:23,044 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:23,047 INFO skillpath Incoming request
+2026-07-08 13:43:23,050 INFO skillpath Token decoded successfully
+2026-07-08 13:43:23,550 INFO skillpath Password hashed successfully
+2026-07-08 13:43:23,553 INFO skillpath Updated User with id 1
+2026-07-08 13:43:23,553 INFO skillpath Password changed for user: user@test.com
+2026-07-08 13:43:23,555 INFO skillpath Request completed
+2026-07-08 13:43:23,556 INFO skillpath Password change logged: user@test.com (ID: 1)
+2026-07-08 13:43:23,558 INFO skillpath Incoming request
+2026-07-08 13:43:23,810 INFO skillpath Updated User with id 1
+2026-07-08 13:43:23,812 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:23,812 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:23,815 INFO skillpath Request completed
+2026-07-08 13:43:23,816 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:24,113 INFO skillpath Password hashed successfully
+2026-07-08 13:43:24,120 INFO skillpath Incoming request
+2026-07-08 13:43:24,390 INFO skillpath Updated User with id 1
+2026-07-08 13:43:24,390 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:24,390 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:24,393 INFO skillpath Request completed
+2026-07-08 13:43:24,393 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:24,398 INFO skillpath Incoming request
+2026-07-08 13:43:24,401 INFO skillpath Token decoded successfully
+2026-07-08 13:43:24,655 INFO skillpath Request completed
+2026-07-08 13:43:24,675 INFO skillpath Incoming request
+2026-07-08 13:43:24,678 INFO skillpath Request completed
+2026-07-08 13:43:24,954 INFO skillpath Password hashed successfully
+2026-07-08 13:43:24,960 INFO skillpath Incoming request
+2026-07-08 13:43:25,230 INFO skillpath Updated User with id 1
+2026-07-08 13:43:25,230 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:25,230 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:25,234 INFO skillpath Request completed
+2026-07-08 13:43:25,234 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:25,236 INFO skillpath Incoming request
+2026-07-08 13:43:25,238 ERROR skillpath Token decoding failed: Signature verification failed.
+2026-07-08 13:43:25,239 INFO skillpath Request completed
+2026-07-08 13:43:25,514 INFO skillpath Password hashed successfully
+2026-07-08 13:43:25,518 INFO skillpath Incoming request
+2026-07-08 13:43:25,784 INFO skillpath Updated User with id 1
+2026-07-08 13:43:25,784 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:25,785 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:25,786 INFO skillpath Request completed
+2026-07-08 13:43:25,788 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:25,791 INFO skillpath Incoming request
+2026-07-08 13:43:25,795 INFO skillpath Token decoded successfully
+2026-07-08 13:43:25,801 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:43:25,803 INFO skillpath Request completed
+2026-07-08 13:43:26,077 INFO skillpath Password hashed successfully
+2026-07-08 13:43:26,082 INFO skillpath Incoming request
+2026-07-08 13:43:26,346 INFO skillpath Updated User with id 1
+2026-07-08 13:43:26,346 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:26,346 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:26,350 INFO skillpath Request completed
+2026-07-08 13:43:26,351 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:26,355 INFO skillpath Incoming request
+2026-07-08 13:43:26,357 INFO skillpath Token decoded successfully
+2026-07-08 13:43:26,360 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:43:26,362 INFO skillpath Request completed
+2026-07-08 13:43:26,641 INFO skillpath Password hashed successfully
+2026-07-08 13:43:26,648 INFO skillpath Incoming request
+2026-07-08 13:43:26,898 INFO skillpath Updated User with id 1
+2026-07-08 13:43:26,898 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:26,898 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:26,901 INFO skillpath Request completed
+2026-07-08 13:43:26,901 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:26,906 INFO skillpath Incoming request
+2026-07-08 13:43:26,908 INFO skillpath Token decoded successfully
+2026-07-08 13:43:26,913 INFO skillpath Listed 1 items with filters: {'category': 'Programming', 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:43:26,914 INFO skillpath Request completed
+2026-07-08 13:43:27,186 INFO skillpath Password hashed successfully
+2026-07-08 13:43:27,192 INFO skillpath Incoming request
+2026-07-08 13:43:27,448 INFO skillpath Updated User with id 1
+2026-07-08 13:43:27,450 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:27,450 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:27,453 INFO skillpath Request completed
+2026-07-08 13:43:27,454 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:27,458 INFO skillpath Incoming request
+2026-07-08 13:43:27,460 INFO skillpath Token decoded successfully
+2026-07-08 13:43:27,466 INFO skillpath Listed 1 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': 80.0, 'price_max': 100.0}, search: None, sort: None
+2026-07-08 13:43:27,468 INFO skillpath Request completed
+2026-07-08 13:43:27,739 INFO skillpath Password hashed successfully
+2026-07-08 13:43:27,744 INFO skillpath Incoming request
+2026-07-08 13:43:28,029 INFO skillpath Updated User with id 1
+2026-07-08 13:43:28,030 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:28,030 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:28,033 INFO skillpath Request completed
+2026-07-08 13:43:28,034 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:28,038 INFO skillpath Incoming request
+2026-07-08 13:43:28,041 INFO skillpath Token decoded successfully
+2026-07-08 13:43:28,046 INFO skillpath Listed 2 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: Python, sort: None
+2026-07-08 13:43:28,048 INFO skillpath Request completed
+2026-07-08 13:43:28,331 INFO skillpath Password hashed successfully
+2026-07-08 13:43:28,336 INFO skillpath Incoming request
+2026-07-08 13:43:28,612 INFO skillpath Updated User with id 1
+2026-07-08 13:43:28,612 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:28,612 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:28,615 INFO skillpath Request completed
+2026-07-08 13:43:28,616 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:28,622 INFO skillpath Incoming request
+2026-07-08 13:43:28,624 INFO skillpath Token decoded successfully
+2026-07-08 13:43:28,628 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: price
+2026-07-08 13:43:28,631 INFO skillpath Request completed
+2026-07-08 13:43:28,655 INFO skillpath Incoming request
+2026-07-08 13:43:28,660 INFO skillpath Request completed
+2026-07-08 13:43:28,933 INFO skillpath Password hashed successfully
+2026-07-08 13:43:28,937 INFO skillpath Incoming request
+2026-07-08 13:43:29,210 INFO skillpath Updated User with id 1
+2026-07-08 13:43:29,210 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:29,212 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:29,214 INFO skillpath Request completed
+2026-07-08 13:43:29,215 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:29,219 INFO skillpath Incoming request
+2026-07-08 13:43:29,222 INFO skillpath Token decoded successfully
+2026-07-08 13:43:29,223 INFO skillpath Request completed
+2026-07-08 13:43:29,494 INFO skillpath Password hashed successfully
+2026-07-08 13:43:29,498 INFO skillpath Incoming request
+2026-07-08 13:43:29,757 INFO skillpath Updated User with id 1
+2026-07-08 13:43:29,758 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:29,758 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:29,759 INFO skillpath Request completed
+2026-07-08 13:43:29,761 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:29,767 INFO skillpath Incoming request
+2026-07-08 13:43:29,771 INFO skillpath Token decoded successfully
+2026-07-08 13:43:29,778 INFO skillpath Created Item with id 1
+2026-07-08 13:43:29,778 INFO skillpath Created item: New Course
+2026-07-08 13:43:29,778 INFO skillpath Cache cleared
+2026-07-08 13:43:29,779 INFO skillpath Request completed
+2026-07-08 13:43:29,781 INFO skillpath Generating analytics for item 1
+2026-07-08 13:43:29,800 INFO skillpath Incoming request
+2026-07-08 13:43:29,805 INFO skillpath Request completed
+2026-07-08 13:43:30,083 INFO skillpath Password hashed successfully
+2026-07-08 13:43:30,087 INFO skillpath Incoming request
+2026-07-08 13:43:30,355 INFO skillpath Updated User with id 1
+2026-07-08 13:43:30,355 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:30,356 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:30,358 INFO skillpath Request completed
+2026-07-08 13:43:30,359 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:30,363 INFO skillpath Incoming request
+2026-07-08 13:43:30,368 INFO skillpath Token decoded successfully
+2026-07-08 13:43:30,370 INFO skillpath Request completed
+2026-07-08 13:43:30,636 INFO skillpath Password hashed successfully
+2026-07-08 13:43:30,641 INFO skillpath Incoming request
+2026-07-08 13:43:30,903 INFO skillpath Updated User with id 1
+2026-07-08 13:43:30,903 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:30,903 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:30,906 INFO skillpath Request completed
+2026-07-08 13:43:30,908 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:30,913 INFO skillpath Incoming request
+2026-07-08 13:43:30,919 INFO skillpath Token decoded successfully
+2026-07-08 13:43:30,923 INFO skillpath Created Item with id 1
+2026-07-08 13:43:30,923 INFO skillpath Created item: Test Course
+2026-07-08 13:43:30,923 INFO skillpath Cache cleared
+2026-07-08 13:43:30,925 INFO skillpath Request completed
+2026-07-08 13:43:30,926 INFO skillpath Generating analytics for item 1
+2026-07-08 13:43:31,224 INFO skillpath Password hashed successfully
+2026-07-08 13:43:31,228 INFO skillpath Incoming request
+2026-07-08 13:43:31,481 INFO skillpath Updated User with id 1
+2026-07-08 13:43:31,481 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:31,481 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:31,484 INFO skillpath Request completed
+2026-07-08 13:43:31,485 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:31,491 INFO skillpath Incoming request
+2026-07-08 13:43:31,493 INFO skillpath Token decoded successfully
+2026-07-08 13:43:31,547 INFO skillpath Request completed
+2026-07-08 13:43:31,845 INFO skillpath Password hashed successfully
+2026-07-08 13:43:31,852 INFO skillpath Incoming request
+2026-07-08 13:43:32,155 INFO skillpath Updated User with id 1
+2026-07-08 13:43:32,156 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:32,157 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:32,163 INFO skillpath Request completed
+2026-07-08 13:43:32,164 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:32,169 INFO skillpath Incoming request
+2026-07-08 13:43:32,170 INFO skillpath Token decoded successfully
+2026-07-08 13:43:32,175 INFO skillpath Request completed
+2026-07-08 13:43:32,202 INFO skillpath Incoming request
+2026-07-08 13:43:32,208 INFO skillpath Request completed
+2026-07-08 13:43:32,493 INFO skillpath Password hashed successfully
+2026-07-08 13:43:32,497 INFO skillpath Incoming request
+2026-07-08 13:43:32,749 INFO skillpath Updated User with id 1
+2026-07-08 13:43:32,749 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:32,749 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:32,751 INFO skillpath Request completed
+2026-07-08 13:43:32,752 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:32,758 INFO skillpath Incoming request
+2026-07-08 13:43:32,763 INFO skillpath Token decoded successfully
+2026-07-08 13:43:32,771 INFO skillpath Updated Item with id 1
+2026-07-08 13:43:32,771 INFO skillpath Updated item 1
+2026-07-08 13:43:32,774 INFO skillpath Request completed
+2026-07-08 13:43:33,062 INFO skillpath Password hashed successfully
+2026-07-08 13:43:33,068 INFO skillpath Incoming request
+2026-07-08 13:43:33,335 INFO skillpath Updated User with id 1
+2026-07-08 13:43:33,336 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:33,336 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:33,339 INFO skillpath Request completed
+2026-07-08 13:43:33,340 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:33,344 INFO skillpath Incoming request
+2026-07-08 13:43:33,347 INFO skillpath Token decoded successfully
+2026-07-08 13:43:33,350 INFO skillpath Request completed
+2026-07-08 13:43:33,371 INFO skillpath Incoming request
+2026-07-08 13:43:33,376 INFO skillpath Request completed
+2026-07-08 13:43:33,650 INFO skillpath Password hashed successfully
+2026-07-08 13:43:33,655 INFO skillpath Incoming request
+2026-07-08 13:43:33,923 INFO skillpath Updated User with id 1
+2026-07-08 13:43:33,924 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:33,924 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:33,927 INFO skillpath Request completed
+2026-07-08 13:43:33,927 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:33,932 INFO skillpath Incoming request
+2026-07-08 13:43:33,935 INFO skillpath Token decoded successfully
+2026-07-08 13:43:33,937 INFO skillpath Request completed
+2026-07-08 13:43:34,228 INFO skillpath Password hashed successfully
+2026-07-08 13:43:34,234 INFO skillpath Incoming request
+2026-07-08 13:43:34,513 INFO skillpath Updated User with id 1
+2026-07-08 13:43:34,514 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:34,514 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:34,516 INFO skillpath Request completed
+2026-07-08 13:43:34,517 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:34,521 INFO skillpath Incoming request
+2026-07-08 13:43:34,523 INFO skillpath Token decoded successfully
+2026-07-08 13:43:34,528 INFO skillpath Deleted Item with id 1
+2026-07-08 13:43:34,528 INFO skillpath Deleted item 1
+2026-07-08 13:43:34,530 INFO skillpath Request completed
+2026-07-08 13:43:34,532 INFO skillpath Incoming request
+2026-07-08 13:43:34,535 INFO skillpath Token decoded successfully
+2026-07-08 13:43:34,538 INFO skillpath Request completed
+2026-07-08 13:43:34,821 INFO skillpath Password hashed successfully
+2026-07-08 13:43:34,826 INFO skillpath Incoming request
+2026-07-08 13:43:35,088 INFO skillpath Updated User with id 1
+2026-07-08 13:43:35,088 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:35,088 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:35,092 INFO skillpath Request completed
+2026-07-08 13:43:35,094 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:35,098 INFO skillpath Incoming request
+2026-07-08 13:43:35,100 INFO skillpath Token decoded successfully
+2026-07-08 13:43:35,104 INFO skillpath Request completed
+2026-07-08 13:43:35,124 INFO skillpath Incoming request
+2026-07-08 13:43:35,128 INFO skillpath Request completed
+2026-07-08 13:43:35,408 INFO skillpath Password hashed successfully
+2026-07-08 13:43:35,414 INFO skillpath Incoming request
+2026-07-08 13:43:35,676 INFO skillpath Updated User with id 1
+2026-07-08 13:43:35,676 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:35,676 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:35,680 INFO skillpath Request completed
+2026-07-08 13:43:35,681 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:35,686 INFO skillpath Incoming request
+2026-07-08 13:43:35,688 INFO skillpath Token decoded successfully
+2026-07-08 13:43:35,692 INFO skillpath Request completed
+2026-07-08 13:43:35,968 INFO skillpath Password hashed successfully
+2026-07-08 13:43:35,975 INFO skillpath Incoming request
+2026-07-08 13:43:36,247 INFO skillpath Updated User with id 1
+2026-07-08 13:43:36,247 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:36,248 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:36,252 INFO skillpath Request completed
+2026-07-08 13:43:36,253 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:36,257 INFO skillpath Incoming request
+2026-07-08 13:43:36,260 INFO skillpath Token decoded successfully
+2026-07-08 13:43:36,263 INFO skillpath Generated 0 recommendations for profile with goal: Career Change
+2026-07-08 13:43:36,266 INFO skillpath Request completed
+2026-07-08 13:43:36,267 INFO skillpath Saving recommendation history for user 1
+2026-07-08 13:43:36,267 INFO skillpath Profile: {'age': 25, 'budget': 200.0, 'experience_level': 'Beginner', 'goal': 'Career Change', 'location': 'Online', 'preferred_pace': 'Self-paced'}
+2026-07-08 13:43:36,268 INFO skillpath Recommendations count: 0
+2026-07-08 13:43:36,286 INFO skillpath Incoming request
+2026-07-08 13:43:36,291 INFO skillpath Request completed
+2026-07-08 13:43:36,311 INFO skillpath Incoming request
+2026-07-08 13:43:36,315 INFO skillpath Request completed
+2026-07-08 13:43:36,333 INFO skillpath Incoming request
+2026-07-08 13:43:36,338 INFO skillpath Request completed
+2026-07-08 13:43:36,356 INFO skillpath Incoming request
+2026-07-08 13:43:36,358 INFO skillpath Request completed
+2026-07-08 13:43:36,636 INFO skillpath Password hashed successfully
+2026-07-08 13:43:36,640 INFO skillpath Incoming request
+2026-07-08 13:43:36,920 INFO skillpath Updated User with id 1
+2026-07-08 13:43:36,921 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:36,921 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:36,925 INFO skillpath Request completed
+2026-07-08 13:43:36,927 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:36,936 INFO skillpath Incoming request
+2026-07-08 13:43:36,938 INFO skillpath Token decoded successfully
+2026-07-08 13:43:36,942 INFO skillpath Request completed
+2026-07-08 13:43:37,269 INFO skillpath Password hashed successfully
+2026-07-08 13:43:37,275 INFO skillpath Incoming request
+2026-07-08 13:43:37,550 INFO skillpath Updated User with id 1
+2026-07-08 13:43:37,551 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:37,551 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:37,554 INFO skillpath Request completed
+2026-07-08 13:43:37,555 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:37,561 INFO skillpath Incoming request
+2026-07-08 13:43:37,565 INFO skillpath Token decoded successfully
+2026-07-08 13:43:37,578 INFO skillpath Updated User with id 1
+2026-07-08 13:43:37,578 INFO skillpath User updated: user@test.com
+2026-07-08 13:43:37,582 INFO skillpath Request completed
+2026-07-08 13:43:37,605 INFO skillpath Incoming request
+2026-07-08 13:43:37,610 INFO skillpath Request completed
+2026-07-08 13:43:37,918 INFO skillpath Password hashed successfully
+2026-07-08 13:43:37,923 INFO skillpath Incoming request
+2026-07-08 13:43:38,218 INFO skillpath Updated User with id 1
+2026-07-08 13:43:38,219 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:38,219 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:43:38,222 INFO skillpath Request completed
+2026-07-08 13:43:38,224 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:43:38,228 INFO skillpath Incoming request
+2026-07-08 13:43:38,231 INFO skillpath Token decoded successfully
+2026-07-08 13:43:38,233 INFO skillpath Listed 1 users
+2026-07-08 13:43:38,235 INFO skillpath Request completed
+2026-07-08 13:43:38,531 INFO skillpath Password hashed successfully
+2026-07-08 13:43:38,535 INFO skillpath Incoming request
+2026-07-08 13:43:38,822 INFO skillpath Updated User with id 1
+2026-07-08 13:43:38,822 INFO skillpath Created access token for subject: 1
+2026-07-08 13:43:38,823 INFO skillpath User logged in: user@test.com
+2026-07-08 13:43:38,825 INFO skillpath Request completed
+2026-07-08 13:43:38,826 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:43:38,830 INFO skillpath Incoming request
+2026-07-08 13:43:38,834 INFO skillpath Token decoded successfully
+2026-07-08 13:43:38,837 INFO skillpath Request completed
+2026-07-08 13:44:46,504 INFO skillpath Incoming request
+2026-07-08 13:44:46,844 INFO skillpath Password hashed successfully
+2026-07-08 13:44:46,857 INFO skillpath Created User with id 1
+2026-07-08 13:44:46,857 INFO skillpath User registered: newuser@example.com
+2026-07-08 13:44:46,863 INFO skillpath Request completed
+2026-07-08 13:44:46,866 INFO skillpath Sending welcome email to newuser@example.com for user newuser
+2026-07-08 13:44:47,162 INFO skillpath Password hashed successfully
+2026-07-08 13:44:47,173 INFO skillpath Incoming request
+2026-07-08 13:44:47,191 INFO skillpath Request completed
+2026-07-08 13:44:47,472 INFO skillpath Password hashed successfully
+2026-07-08 13:44:47,483 INFO skillpath Incoming request
+2026-07-08 13:44:47,491 INFO skillpath Request completed
+2026-07-08 13:44:47,522 INFO skillpath Incoming request
+2026-07-08 13:44:47,529 WARNING skillpath Validation error
+2026-07-08 13:44:47,530 INFO skillpath Request completed
+2026-07-08 13:44:47,805 INFO skillpath Password hashed successfully
+2026-07-08 13:44:47,815 INFO skillpath Incoming request
+2026-07-08 13:44:48,106 INFO skillpath Updated User with id 1
+2026-07-08 13:44:48,135 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:48,135 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:48,141 INFO skillpath Request completed
+2026-07-08 13:44:48,146 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:48,184 INFO skillpath Incoming request
+2026-07-08 13:44:48,200 INFO skillpath Request completed
+2026-07-08 13:44:48,512 INFO skillpath Password hashed successfully
+2026-07-08 13:44:48,519 INFO skillpath Incoming request
+2026-07-08 13:44:48,784 INFO skillpath Updated User with id 1
+2026-07-08 13:44:48,787 INFO skillpath Request completed
+2026-07-08 13:44:49,098 INFO skillpath Password hashed successfully
+2026-07-08 13:44:49,105 INFO skillpath Incoming request
+2026-07-08 13:44:49,370 INFO skillpath Updated User with id 1
+2026-07-08 13:44:49,372 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:49,372 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:49,377 INFO skillpath Request completed
+2026-07-08 13:44:49,378 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:49,385 INFO skillpath Incoming request
+2026-07-08 13:44:49,389 INFO skillpath Token decoded successfully
+2026-07-08 13:44:49,398 INFO skillpath Request completed
+2026-07-08 13:44:49,430 INFO skillpath Incoming request
+2026-07-08 13:44:49,433 INFO skillpath Request completed
+2026-07-08 13:44:49,461 INFO skillpath Incoming request
+2026-07-08 13:44:49,465 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:44:49,467 INFO skillpath Request completed
+2026-07-08 13:44:49,495 INFO skillpath Incoming request
+2026-07-08 13:44:49,499 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:44:49,501 INFO skillpath Request completed
+2026-07-08 13:44:49,771 INFO skillpath Password hashed successfully
+2026-07-08 13:44:49,778 INFO skillpath Incoming request
+2026-07-08 13:44:50,038 INFO skillpath Updated User with id 1
+2026-07-08 13:44:50,039 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:50,040 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:44:50,044 INFO skillpath Request completed
+2026-07-08 13:44:50,047 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:44:50,052 INFO skillpath Incoming request
+2026-07-08 13:44:50,057 INFO skillpath Token decoded successfully
+2026-07-08 13:44:50,063 INFO skillpath Listed 1 users
+2026-07-08 13:44:50,067 INFO skillpath Request completed
+2026-07-08 13:44:50,348 INFO skillpath Password hashed successfully
+2026-07-08 13:44:50,357 INFO skillpath Incoming request
+2026-07-08 13:44:50,618 INFO skillpath Updated User with id 1
+2026-07-08 13:44:50,618 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:50,619 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:50,625 INFO skillpath Request completed
+2026-07-08 13:44:50,627 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:50,632 INFO skillpath Incoming request
+2026-07-08 13:44:50,636 INFO skillpath Token decoded successfully
+2026-07-08 13:44:50,640 INFO skillpath Request completed
+2026-07-08 13:44:50,914 INFO skillpath Password hashed successfully
+2026-07-08 13:44:50,922 INFO skillpath Incoming request
+2026-07-08 13:44:51,194 INFO skillpath Updated User with id 1
+2026-07-08 13:44:51,194 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:51,194 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:51,198 INFO skillpath Request completed
+2026-07-08 13:44:51,200 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:51,205 INFO skillpath Incoming request
+2026-07-08 13:44:51,213 INFO skillpath Token decoded successfully
+2026-07-08 13:44:51,719 INFO skillpath Password hashed successfully
+2026-07-08 13:44:51,723 INFO skillpath Updated User with id 1
+2026-07-08 13:44:51,724 INFO skillpath Password changed for user: user@test.com
+2026-07-08 13:44:51,726 INFO skillpath Request completed
+2026-07-08 13:44:51,728 INFO skillpath Password change logged: user@test.com (ID: 1)
+2026-07-08 13:44:51,733 INFO skillpath Incoming request
+2026-07-08 13:44:52,000 INFO skillpath Updated User with id 1
+2026-07-08 13:44:52,001 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:52,001 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:52,005 INFO skillpath Request completed
+2026-07-08 13:44:52,008 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:52,284 INFO skillpath Password hashed successfully
+2026-07-08 13:44:52,294 INFO skillpath Incoming request
+2026-07-08 13:44:52,553 INFO skillpath Updated User with id 1
+2026-07-08 13:44:52,553 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:52,554 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:52,557 INFO skillpath Request completed
+2026-07-08 13:44:52,560 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:52,566 INFO skillpath Incoming request
+2026-07-08 13:44:52,571 INFO skillpath Token decoded successfully
+2026-07-08 13:44:52,823 INFO skillpath Request completed
+2026-07-08 13:44:52,855 INFO skillpath Incoming request
+2026-07-08 13:44:52,861 INFO skillpath Request completed
+2026-07-08 13:44:53,146 INFO skillpath Password hashed successfully
+2026-07-08 13:44:53,153 INFO skillpath Incoming request
+2026-07-08 13:44:53,423 INFO skillpath Updated User with id 1
+2026-07-08 13:44:53,424 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:53,425 INFO skillpath User logged in: user@test.com
+2026-07-08 13:44:53,428 INFO skillpath Request completed
+2026-07-08 13:44:53,430 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:44:53,435 INFO skillpath Incoming request
+2026-07-08 13:44:53,439 ERROR skillpath Token decoding failed: Signature verification failed.
+2026-07-08 13:44:53,440 INFO skillpath Request completed
+2026-07-08 13:44:53,468 INFO skillpath Cache cleared
+2026-07-08 13:44:57,507 INFO skillpath Cache cleared
+2026-07-08 13:44:57,812 INFO skillpath Password hashed successfully
+2026-07-08 13:44:57,819 INFO skillpath Incoming request
+2026-07-08 13:44:58,109 INFO skillpath Updated User with id 1
+2026-07-08 13:44:58,109 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:58,110 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:44:58,115 INFO skillpath Request completed
+2026-07-08 13:44:58,116 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:44:58,126 INFO skillpath Incoming request
+2026-07-08 13:44:58,131 INFO skillpath Token decoded successfully
+2026-07-08 13:44:58,144 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:44:58,148 INFO skillpath Request completed
+2026-07-08 13:44:58,452 INFO skillpath Password hashed successfully
+2026-07-08 13:44:58,460 INFO skillpath Incoming request
+2026-07-08 13:44:58,728 INFO skillpath Updated User with id 1
+2026-07-08 13:44:58,728 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:58,728 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:44:58,734 INFO skillpath Request completed
+2026-07-08 13:44:58,735 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:44:58,743 INFO skillpath Incoming request
+2026-07-08 13:44:58,747 INFO skillpath Token decoded successfully
+2026-07-08 13:44:58,753 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:44:58,755 INFO skillpath Request completed
+2026-07-08 13:44:59,075 INFO skillpath Password hashed successfully
+2026-07-08 13:44:59,084 INFO skillpath Incoming request
+2026-07-08 13:44:59,389 INFO skillpath Updated User with id 1
+2026-07-08 13:44:59,390 INFO skillpath Created access token for subject: 1
+2026-07-08 13:44:59,390 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:44:59,394 INFO skillpath Request completed
+2026-07-08 13:44:59,398 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:44:59,409 INFO skillpath Incoming request
+2026-07-08 13:44:59,414 INFO skillpath Token decoded successfully
+2026-07-08 13:44:59,425 INFO skillpath Listed 1 items with filters: {'category': 'Programming', 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:44:59,430 INFO skillpath Request completed
+2026-07-08 13:44:59,813 INFO skillpath Password hashed successfully
+2026-07-08 13:44:59,822 INFO skillpath Incoming request
+2026-07-08 13:45:00,205 INFO skillpath Updated User with id 1
+2026-07-08 13:45:00,206 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:00,206 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:00,214 INFO skillpath Request completed
+2026-07-08 13:45:00,215 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:00,231 INFO skillpath Incoming request
+2026-07-08 13:45:00,236 INFO skillpath Token decoded successfully
+2026-07-08 13:45:00,252 INFO skillpath Listed 1 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': 80.0, 'price_max': 100.0}, search: None, sort: None
+2026-07-08 13:45:00,258 INFO skillpath Request completed
+2026-07-08 13:45:00,701 INFO skillpath Password hashed successfully
+2026-07-08 13:45:00,712 INFO skillpath Incoming request
+2026-07-08 13:45:01,082 INFO skillpath Updated User with id 1
+2026-07-08 13:45:01,082 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:01,083 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:01,096 INFO skillpath Request completed
+2026-07-08 13:45:01,099 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:01,110 INFO skillpath Incoming request
+2026-07-08 13:45:01,122 INFO skillpath Token decoded successfully
+2026-07-08 13:45:01,135 INFO skillpath Listed 2 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: Python, sort: None
+2026-07-08 13:45:01,140 INFO skillpath Request completed
+2026-07-08 13:45:01,568 INFO skillpath Password hashed successfully
+2026-07-08 13:45:01,580 INFO skillpath Incoming request
+2026-07-08 13:45:01,896 INFO skillpath Updated User with id 1
+2026-07-08 13:45:01,896 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:01,896 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:01,900 INFO skillpath Request completed
+2026-07-08 13:45:01,901 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:01,909 INFO skillpath Incoming request
+2026-07-08 13:45:01,914 INFO skillpath Token decoded successfully
+2026-07-08 13:45:01,921 INFO skillpath Listed 3 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: price
+2026-07-08 13:45:01,925 INFO skillpath Request completed
+2026-07-08 13:45:01,960 INFO skillpath Incoming request
+2026-07-08 13:45:01,966 INFO skillpath Request completed
+2026-07-08 13:45:02,333 INFO skillpath Password hashed successfully
+2026-07-08 13:45:02,344 INFO skillpath Incoming request
+2026-07-08 13:45:02,683 INFO skillpath Updated User with id 1
+2026-07-08 13:45:02,684 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:02,685 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:02,691 INFO skillpath Request completed
+2026-07-08 13:45:02,693 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:02,702 INFO skillpath Incoming request
+2026-07-08 13:45:02,707 INFO skillpath Token decoded successfully
+2026-07-08 13:45:02,711 INFO skillpath Request completed
+2026-07-08 13:45:03,103 INFO skillpath Password hashed successfully
+2026-07-08 13:45:03,118 INFO skillpath Incoming request
+2026-07-08 13:45:03,421 INFO skillpath Updated User with id 1
+2026-07-08 13:45:03,423 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:03,424 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:03,429 INFO skillpath Request completed
+2026-07-08 13:45:03,431 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:03,440 INFO skillpath Incoming request
+2026-07-08 13:45:03,448 INFO skillpath Token decoded successfully
+2026-07-08 13:45:03,465 INFO skillpath Created Item with id 1
+2026-07-08 13:45:03,467 INFO skillpath Created item: New Course
+2026-07-08 13:45:03,467 INFO skillpath Cache cleared
+2026-07-08 13:45:03,472 INFO skillpath Request completed
+2026-07-08 13:45:03,473 INFO skillpath Generating analytics for item 1
+2026-07-08 13:45:03,520 INFO skillpath Incoming request
+2026-07-08 13:45:03,533 INFO skillpath Request completed
+2026-07-08 13:45:03,853 INFO skillpath Password hashed successfully
+2026-07-08 13:45:03,863 INFO skillpath Incoming request
+2026-07-08 13:45:04,212 INFO skillpath Updated User with id 1
+2026-07-08 13:45:04,214 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:04,214 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:04,222 INFO skillpath Request completed
+2026-07-08 13:45:04,224 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:04,236 INFO skillpath Incoming request
+2026-07-08 13:45:04,248 INFO skillpath Token decoded successfully
+2026-07-08 13:45:04,254 INFO skillpath Request completed
+2026-07-08 13:45:04,615 INFO skillpath Password hashed successfully
+2026-07-08 13:45:04,627 INFO skillpath Incoming request
+2026-07-08 13:45:05,027 INFO skillpath Updated User with id 1
+2026-07-08 13:45:05,028 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:05,028 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:05,035 INFO skillpath Request completed
+2026-07-08 13:45:05,039 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:05,050 INFO skillpath Incoming request
+2026-07-08 13:45:05,065 INFO skillpath Token decoded successfully
+2026-07-08 13:45:05,081 INFO skillpath Created Item with id 1
+2026-07-08 13:45:05,082 INFO skillpath Created item: Test Course
+2026-07-08 13:45:05,082 INFO skillpath Cache cleared
+2026-07-08 13:45:05,089 INFO skillpath Request completed
+2026-07-08 13:45:05,093 INFO skillpath Generating analytics for item 1
+2026-07-08 13:45:05,649 INFO skillpath Password hashed successfully
+2026-07-08 13:45:05,660 INFO skillpath Incoming request
+2026-07-08 13:45:06,045 INFO skillpath Updated User with id 1
+2026-07-08 13:45:06,048 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:06,048 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:06,055 INFO skillpath Request completed
+2026-07-08 13:45:06,058 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:06,075 INFO skillpath Incoming request
+2026-07-08 13:45:06,085 INFO skillpath Token decoded successfully
+2026-07-08 13:45:06,100 INFO skillpath Request completed
+2026-07-08 13:45:06,451 INFO skillpath Password hashed successfully
+2026-07-08 13:45:06,460 INFO skillpath Incoming request
+2026-07-08 13:45:06,836 INFO skillpath Updated User with id 1
+2026-07-08 13:45:06,838 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:06,838 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:06,845 INFO skillpath Request completed
+2026-07-08 13:45:06,850 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:06,862 INFO skillpath Incoming request
+2026-07-08 13:45:06,868 INFO skillpath Token decoded successfully
+2026-07-08 13:45:06,880 INFO skillpath Request completed
+2026-07-08 13:45:06,944 INFO skillpath Incoming request
+2026-07-08 13:45:06,953 INFO skillpath Request completed
+2026-07-08 13:45:07,422 INFO skillpath Password hashed successfully
+2026-07-08 13:45:07,438 INFO skillpath Incoming request
+2026-07-08 13:45:07,907 INFO skillpath Updated User with id 1
+2026-07-08 13:45:07,908 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:07,909 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:07,920 INFO skillpath Request completed
+2026-07-08 13:45:07,926 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:07,938 INFO skillpath Incoming request
+2026-07-08 13:45:07,951 INFO skillpath Token decoded successfully
+2026-07-08 13:45:07,981 INFO skillpath Updated Item with id 1
+2026-07-08 13:45:07,982 INFO skillpath Updated item 1
+2026-07-08 13:45:07,986 INFO skillpath Request completed
+2026-07-08 13:45:08,404 INFO skillpath Password hashed successfully
+2026-07-08 13:45:08,414 INFO skillpath Incoming request
+2026-07-08 13:45:08,813 INFO skillpath Updated User with id 1
+2026-07-08 13:45:08,816 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:08,817 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:08,826 INFO skillpath Request completed
+2026-07-08 13:45:08,828 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:08,841 INFO skillpath Incoming request
+2026-07-08 13:45:08,852 INFO skillpath Token decoded successfully
+2026-07-08 13:45:08,859 INFO skillpath Request completed
+2026-07-08 13:45:08,908 INFO skillpath Incoming request
+2026-07-08 13:45:08,921 INFO skillpath Request completed
+2026-07-08 13:45:09,301 INFO skillpath Password hashed successfully
+2026-07-08 13:45:09,311 INFO skillpath Incoming request
+2026-07-08 13:45:09,623 INFO skillpath Updated User with id 1
+2026-07-08 13:45:09,624 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:09,624 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:09,628 INFO skillpath Request completed
+2026-07-08 13:45:09,631 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:09,645 INFO skillpath Incoming request
+2026-07-08 13:45:09,657 INFO skillpath Token decoded successfully
+2026-07-08 13:45:09,663 INFO skillpath Request completed
+2026-07-08 13:45:10,016 INFO skillpath Password hashed successfully
+2026-07-08 13:45:10,026 INFO skillpath Incoming request
+2026-07-08 13:45:10,375 INFO skillpath Updated User with id 1
+2026-07-08 13:45:10,375 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:10,376 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:10,383 INFO skillpath Request completed
+2026-07-08 13:45:10,385 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:10,393 INFO skillpath Incoming request
+2026-07-08 13:45:10,397 INFO skillpath Token decoded successfully
+2026-07-08 13:45:10,407 INFO skillpath Deleted Item with id 1
+2026-07-08 13:45:10,407 INFO skillpath Deleted item 1
+2026-07-08 13:45:10,409 INFO skillpath Request completed
+2026-07-08 13:45:10,415 INFO skillpath Incoming request
+2026-07-08 13:45:10,422 INFO skillpath Token decoded successfully
+2026-07-08 13:45:10,428 INFO skillpath Request completed
+2026-07-08 13:45:10,748 INFO skillpath Password hashed successfully
+2026-07-08 13:45:10,757 INFO skillpath Incoming request
+2026-07-08 13:45:11,058 INFO skillpath Updated User with id 1
+2026-07-08 13:45:11,058 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:11,059 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:11,063 INFO skillpath Request completed
+2026-07-08 13:45:11,065 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:11,071 INFO skillpath Incoming request
+2026-07-08 13:45:11,076 INFO skillpath Token decoded successfully
+2026-07-08 13:45:11,084 INFO skillpath Request completed
+2026-07-08 13:45:11,125 INFO skillpath Incoming request
+2026-07-08 13:45:11,130 INFO skillpath Request completed
+2026-07-08 13:45:11,424 INFO skillpath Password hashed successfully
+2026-07-08 13:45:11,430 INFO skillpath Incoming request
+2026-07-08 13:45:11,692 INFO skillpath Updated User with id 1
+2026-07-08 13:45:11,692 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:11,693 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:11,696 INFO skillpath Request completed
+2026-07-08 13:45:11,698 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:11,706 INFO skillpath Incoming request
+2026-07-08 13:45:11,712 INFO skillpath Token decoded successfully
+2026-07-08 13:45:11,715 INFO skillpath Request completed
+2026-07-08 13:45:12,000 INFO skillpath Password hashed successfully
+2026-07-08 13:45:12,006 INFO skillpath Incoming request
+2026-07-08 13:45:12,283 INFO skillpath Updated User with id 1
+2026-07-08 13:45:12,283 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:12,283 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:12,287 INFO skillpath Request completed
+2026-07-08 13:45:12,289 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:12,297 INFO skillpath Incoming request
+2026-07-08 13:45:12,301 INFO skillpath Token decoded successfully
+2026-07-08 13:45:12,309 INFO skillpath Generated 0 recommendations for profile with goal: Career Change
+2026-07-08 13:45:12,314 INFO skillpath Request completed
+2026-07-08 13:45:12,315 INFO skillpath Saving recommendation history for user 1
+2026-07-08 13:45:12,316 INFO skillpath Profile: {'age': 25, 'budget': 200.0, 'experience_level': 'Beginner', 'goal': 'Career Change', 'location': 'Online', 'preferred_pace': 'Self-paced'}
+2026-07-08 13:45:12,316 INFO skillpath Recommendations count: 0
+2026-07-08 13:45:12,347 INFO skillpath Incoming request
+2026-07-08 13:45:12,356 INFO skillpath Request completed
+2026-07-08 13:45:12,385 INFO skillpath Incoming request
+2026-07-08 13:45:12,390 INFO skillpath Request completed
+2026-07-08 13:45:12,432 INFO skillpath Incoming request
+2026-07-08 13:45:12,441 INFO skillpath Request completed
+2026-07-08 13:45:12,483 INFO skillpath Incoming request
+2026-07-08 13:45:12,489 INFO skillpath Request completed
+2026-07-08 13:45:12,531 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,565 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,600 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,604 INFO skillpath Updated Item with id 1
+2026-07-08 13:45:12,622 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,623 INFO skillpath Deleted Item with id 1
+2026-07-08 13:45:12,640 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,643 INFO skillpath Created Item with id 2
+2026-07-08 13:45:12,646 INFO skillpath Created Item with id 3
+2026-07-08 13:45:12,671 INFO skillpath Created Item with id 1
+2026-07-08 13:45:12,674 INFO skillpath Created Item with id 2
+2026-07-08 13:45:12,951 INFO skillpath Password hashed successfully
+2026-07-08 13:45:12,954 INFO skillpath Created User with id 1
+2026-07-08 13:45:13,236 INFO skillpath Password hashed successfully
+2026-07-08 13:45:13,241 INFO skillpath Created User with id 1
+2026-07-08 13:45:13,525 INFO skillpath Password hashed successfully
+2026-07-08 13:45:13,528 INFO skillpath Created User with id 1
+2026-07-08 13:45:13,788 INFO skillpath Password hashed successfully
+2026-07-08 13:45:13,791 INFO skillpath Created User with id 1
+2026-07-08 13:45:14,088 INFO skillpath Password hashed successfully
+2026-07-08 13:45:14,091 INFO skillpath Created User with id 1
+2026-07-08 13:45:14,369 INFO skillpath Password hashed successfully
+2026-07-08 13:45:14,374 INFO skillpath Created User with id 1
+2026-07-08 13:45:14,670 INFO skillpath Password hashed successfully
+2026-07-08 13:45:14,678 INFO skillpath Incoming request
+2026-07-08 13:45:14,967 INFO skillpath Updated User with id 1
+2026-07-08 13:45:14,967 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:14,968 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:14,972 INFO skillpath Request completed
+2026-07-08 13:45:14,973 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:14,984 INFO skillpath Incoming request
+2026-07-08 13:45:14,994 INFO skillpath Token decoded successfully
+2026-07-08 13:45:15,000 INFO skillpath Listed 0 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: Python' OR '1'='1, sort: None
+2026-07-08 13:45:15,005 INFO skillpath Request completed
+2026-07-08 13:45:15,316 INFO skillpath Password hashed successfully
+2026-07-08 13:45:15,324 INFO skillpath Incoming request
+2026-07-08 13:45:15,586 INFO skillpath Updated User with id 1
+2026-07-08 13:45:15,587 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:15,588 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:15,592 INFO skillpath Request completed
+2026-07-08 13:45:15,595 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:15,601 INFO skillpath Incoming request
+2026-07-08 13:45:15,605 INFO skillpath Token decoded successfully
+2026-07-08 13:45:15,610 INFO skillpath Listed 0 items with filters: {'category': "Programming' OR '1'='1", 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: None, sort: None
+2026-07-08 13:45:15,614 INFO skillpath Request completed
+2026-07-08 13:45:15,907 INFO skillpath Password hashed successfully
+2026-07-08 13:45:15,914 INFO skillpath Incoming request
+2026-07-08 13:45:16,197 INFO skillpath Updated User with id 1
+2026-07-08 13:45:16,198 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:16,198 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:16,202 INFO skillpath Request completed
+2026-07-08 13:45:16,205 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:16,213 INFO skillpath Incoming request
+2026-07-08 13:45:16,218 INFO skillpath Token decoded successfully
+2026-07-08 13:45:16,225 INFO skillpath Created Item with id 1
+2026-07-08 13:45:16,225 INFO skillpath Created item: <script>alert('XSS')</script>
+2026-07-08 13:45:16,225 INFO skillpath Cache cleared
+2026-07-08 13:45:16,228 INFO skillpath Request completed
+2026-07-08 13:45:16,231 INFO skillpath Generating analytics for item 1
+2026-07-08 13:45:16,269 INFO skillpath Incoming request
+2026-07-08 13:45:16,534 INFO skillpath Password hashed successfully
+2026-07-08 13:45:16,538 INFO skillpath Created User with id 1
+2026-07-08 13:45:16,538 INFO skillpath User registered: test@example.com
+2026-07-08 13:45:16,541 INFO skillpath Request completed
+2026-07-08 13:45:16,544 INFO skillpath Sending welcome email to test@example.com for user testuser
+2026-07-08 13:45:16,815 INFO skillpath Password hashed successfully
+2026-07-08 13:45:16,823 INFO skillpath Incoming request
+2026-07-08 13:45:17,096 INFO skillpath Updated User with id 1
+2026-07-08 13:45:17,098 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:17,098 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:17,101 INFO skillpath Request completed
+2026-07-08 13:45:17,103 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:17,108 INFO skillpath Incoming request
+2026-07-08 13:45:17,111 ERROR skillpath Token decoding failed: Signature verification failed.
+2026-07-08 13:45:17,112 INFO skillpath Request completed
+2026-07-08 13:45:17,143 INFO skillpath Incoming request
+2026-07-08 13:45:17,146 INFO skillpath Request completed
+2026-07-08 13:45:17,180 INFO skillpath Incoming request
+2026-07-08 13:45:17,186 ERROR skillpath Token decoding failed: Invalid header string: 'utf-8' codec can't decode byte 0x8a in position 0: invalid start byte
+2026-07-08 13:45:17,189 INFO skillpath Request completed
+2026-07-08 13:45:17,221 INFO skillpath Incoming request
+2026-07-08 13:45:17,225 ERROR skillpath Token decoding failed: Not enough segments
+2026-07-08 13:45:17,227 INFO skillpath Request completed
+2026-07-08 13:45:17,256 INFO skillpath Incoming request
+2026-07-08 13:45:17,260 INFO skillpath Request completed
+2026-07-08 13:45:17,265 INFO skillpath Incoming request
+2026-07-08 13:45:17,267 INFO skillpath Request completed
+2026-07-08 13:45:17,273 INFO skillpath Incoming request
+2026-07-08 13:45:17,276 INFO skillpath Request completed
+2026-07-08 13:45:17,281 INFO skillpath Incoming request
+2026-07-08 13:45:17,283 INFO skillpath Request completed
+2026-07-08 13:45:17,288 INFO skillpath Incoming request
+2026-07-08 13:45:17,290 INFO skillpath Request completed
+2026-07-08 13:45:17,297 INFO skillpath Incoming request
+2026-07-08 13:45:17,299 INFO skillpath Request completed
+2026-07-08 13:45:17,305 INFO skillpath Incoming request
+2026-07-08 13:45:17,307 INFO skillpath Request completed
+2026-07-08 13:45:17,312 INFO skillpath Incoming request
+2026-07-08 13:45:17,315 INFO skillpath Request completed
+2026-07-08 13:45:17,320 INFO skillpath Incoming request
+2026-07-08 13:45:17,322 INFO skillpath Request completed
+2026-07-08 13:45:17,326 INFO skillpath Incoming request
+2026-07-08 13:45:17,328 INFO skillpath Request completed
+2026-07-08 13:45:17,334 INFO skillpath Incoming request
+2026-07-08 13:45:17,338 INFO skillpath Request completed
+2026-07-08 13:45:17,343 INFO skillpath Incoming request
+2026-07-08 13:45:17,345 INFO skillpath Request completed
+2026-07-08 13:45:17,352 INFO skillpath Incoming request
+2026-07-08 13:45:17,354 INFO skillpath Request completed
+2026-07-08 13:45:17,359 INFO skillpath Incoming request
+2026-07-08 13:45:17,363 INFO skillpath Request completed
+2026-07-08 13:45:17,368 INFO skillpath Incoming request
+2026-07-08 13:45:17,371 INFO skillpath Request completed
+2026-07-08 13:45:17,377 INFO skillpath Incoming request
+2026-07-08 13:45:17,378 INFO skillpath Request completed
+2026-07-08 13:45:17,384 INFO skillpath Incoming request
+2026-07-08 13:45:17,386 INFO skillpath Request completed
+2026-07-08 13:45:17,391 INFO skillpath Incoming request
+2026-07-08 13:45:17,393 INFO skillpath Request completed
+2026-07-08 13:45:17,398 INFO skillpath Incoming request
+2026-07-08 13:45:17,400 INFO skillpath Request completed
+2026-07-08 13:45:17,406 INFO skillpath Incoming request
+2026-07-08 13:45:17,408 INFO skillpath Request completed
+2026-07-08 13:45:17,413 INFO skillpath Incoming request
+2026-07-08 13:45:17,415 INFO skillpath Request completed
+2026-07-08 13:45:17,419 INFO skillpath Incoming request
+2026-07-08 13:45:17,421 INFO skillpath Request completed
+2026-07-08 13:45:17,427 INFO skillpath Incoming request
+2026-07-08 13:45:17,428 INFO skillpath Request completed
+2026-07-08 13:45:17,434 INFO skillpath Incoming request
+2026-07-08 13:45:17,436 INFO skillpath Request completed
+2026-07-08 13:45:17,442 INFO skillpath Incoming request
+2026-07-08 13:45:17,444 INFO skillpath Request completed
+2026-07-08 13:45:17,448 INFO skillpath Incoming request
+2026-07-08 13:45:17,450 INFO skillpath Request completed
+2026-07-08 13:45:17,455 INFO skillpath Incoming request
+2026-07-08 13:45:17,458 INFO skillpath Request completed
+2026-07-08 13:45:17,464 INFO skillpath Incoming request
+2026-07-08 13:45:17,465 INFO skillpath Request completed
+2026-07-08 13:45:17,470 INFO skillpath Incoming request
+2026-07-08 13:45:17,473 INFO skillpath Request completed
+2026-07-08 13:45:17,478 INFO skillpath Incoming request
+2026-07-08 13:45:17,480 INFO skillpath Request completed
+2026-07-08 13:45:17,485 INFO skillpath Incoming request
+2026-07-08 13:45:17,486 INFO skillpath Request completed
+2026-07-08 13:45:17,493 INFO skillpath Incoming request
+2026-07-08 13:45:17,494 INFO skillpath Request completed
+2026-07-08 13:45:17,498 INFO skillpath Incoming request
+2026-07-08 13:45:17,501 INFO skillpath Request completed
+2026-07-08 13:45:17,509 INFO skillpath Incoming request
+2026-07-08 13:45:17,510 INFO skillpath Request completed
+2026-07-08 13:45:17,516 INFO skillpath Incoming request
+2026-07-08 13:45:17,518 INFO skillpath Request completed
+2026-07-08 13:45:17,523 INFO skillpath Incoming request
+2026-07-08 13:45:17,526 INFO skillpath Request completed
+2026-07-08 13:45:17,531 INFO skillpath Incoming request
+2026-07-08 13:45:17,534 INFO skillpath Request completed
+2026-07-08 13:45:17,540 INFO skillpath Incoming request
+2026-07-08 13:45:17,542 INFO skillpath Request completed
+2026-07-08 13:45:17,548 INFO skillpath Incoming request
+2026-07-08 13:45:17,550 INFO skillpath Request completed
+2026-07-08 13:45:17,557 INFO skillpath Incoming request
+2026-07-08 13:45:17,558 INFO skillpath Request completed
+2026-07-08 13:45:17,564 INFO skillpath Incoming request
+2026-07-08 13:45:17,566 INFO skillpath Request completed
+2026-07-08 13:45:17,576 INFO skillpath Incoming request
+2026-07-08 13:45:17,578 INFO skillpath Request completed
+2026-07-08 13:45:17,583 INFO skillpath Incoming request
+2026-07-08 13:45:17,586 INFO skillpath Request completed
+2026-07-08 13:45:17,592 INFO skillpath Incoming request
+2026-07-08 13:45:17,595 INFO skillpath Request completed
+2026-07-08 13:45:17,600 INFO skillpath Incoming request
+2026-07-08 13:45:17,603 INFO skillpath Request completed
+2026-07-08 13:45:17,610 INFO skillpath Incoming request
+2026-07-08 13:45:17,613 INFO skillpath Request completed
+2026-07-08 13:45:17,617 INFO skillpath Incoming request
+2026-07-08 13:45:17,619 INFO skillpath Request completed
+2026-07-08 13:45:17,626 INFO skillpath Incoming request
+2026-07-08 13:45:17,628 INFO skillpath Request completed
+2026-07-08 13:45:17,633 INFO skillpath Incoming request
+2026-07-08 13:45:17,636 INFO skillpath Request completed
+2026-07-08 13:45:17,642 INFO skillpath Incoming request
+2026-07-08 13:45:17,644 INFO skillpath Request completed
+2026-07-08 13:45:17,651 INFO skillpath Incoming request
+2026-07-08 13:45:17,653 INFO skillpath Request completed
+2026-07-08 13:45:17,659 INFO skillpath Incoming request
+2026-07-08 13:45:17,661 INFO skillpath Request completed
+2026-07-08 13:45:17,666 INFO skillpath Incoming request
+2026-07-08 13:45:17,668 INFO skillpath Request completed
+2026-07-08 13:45:17,673 INFO skillpath Incoming request
+2026-07-08 13:45:17,676 INFO skillpath Request completed
+2026-07-08 13:45:17,682 INFO skillpath Incoming request
+2026-07-08 13:45:17,684 INFO skillpath Request completed
+2026-07-08 13:45:17,690 INFO skillpath Incoming request
+2026-07-08 13:45:17,694 INFO skillpath Request completed
+2026-07-08 13:45:17,698 INFO skillpath Incoming request
+2026-07-08 13:45:17,701 INFO skillpath Request completed
+2026-07-08 13:45:17,705 INFO skillpath Incoming request
+2026-07-08 13:45:17,708 INFO skillpath Request completed
+2026-07-08 13:45:17,714 INFO skillpath Incoming request
+2026-07-08 13:45:17,715 INFO skillpath Request completed
+2026-07-08 13:45:17,722 INFO skillpath Incoming request
+2026-07-08 13:45:17,725 INFO skillpath Request completed
+2026-07-08 13:45:17,729 INFO skillpath Incoming request
+2026-07-08 13:45:17,731 INFO skillpath Request completed
+2026-07-08 13:45:17,737 INFO skillpath Incoming request
+2026-07-08 13:45:17,742 INFO skillpath Request completed
+2026-07-08 13:45:17,747 INFO skillpath Incoming request
+2026-07-08 13:45:17,748 INFO skillpath Request completed
+2026-07-08 13:45:17,754 INFO skillpath Incoming request
+2026-07-08 13:45:17,757 INFO skillpath Request completed
+2026-07-08 13:45:17,763 INFO skillpath Incoming request
+2026-07-08 13:45:17,764 INFO skillpath Request completed
+2026-07-08 13:45:17,769 INFO skillpath Incoming request
+2026-07-08 13:45:17,772 INFO skillpath Request completed
+2026-07-08 13:45:17,776 INFO skillpath Incoming request
+2026-07-08 13:45:17,779 INFO skillpath Request completed
+2026-07-08 13:45:17,785 INFO skillpath Incoming request
+2026-07-08 13:45:17,788 INFO skillpath Request completed
+2026-07-08 13:45:17,793 INFO skillpath Incoming request
+2026-07-08 13:45:17,796 INFO skillpath Request completed
+2026-07-08 13:45:17,800 INFO skillpath Incoming request
+2026-07-08 13:45:17,802 INFO skillpath Request completed
+2026-07-08 13:45:17,809 INFO skillpath Incoming request
+2026-07-08 13:45:17,813 INFO skillpath Request completed
+2026-07-08 13:45:17,817 INFO skillpath Incoming request
+2026-07-08 13:45:17,819 INFO skillpath Request completed
+2026-07-08 13:45:17,826 INFO skillpath Incoming request
+2026-07-08 13:45:17,828 INFO skillpath Request completed
+2026-07-08 13:45:17,833 INFO skillpath Incoming request
+2026-07-08 13:45:17,836 INFO skillpath Request completed
+2026-07-08 13:45:17,844 INFO skillpath Incoming request
+2026-07-08 13:45:17,846 INFO skillpath Request completed
+2026-07-08 13:45:17,851 INFO skillpath Incoming request
+2026-07-08 13:45:17,853 INFO skillpath Request completed
+2026-07-08 13:45:17,858 INFO skillpath Incoming request
+2026-07-08 13:45:17,861 INFO skillpath Request completed
+2026-07-08 13:45:17,865 INFO skillpath Incoming request
+2026-07-08 13:45:17,868 INFO skillpath Request completed
+2026-07-08 13:45:17,874 INFO skillpath Incoming request
+2026-07-08 13:45:17,876 INFO skillpath Request completed
+2026-07-08 13:45:17,881 INFO skillpath Incoming request
+2026-07-08 13:45:17,884 INFO skillpath Request completed
+2026-07-08 13:45:17,890 INFO skillpath Incoming request
+2026-07-08 13:45:17,892 INFO skillpath Request completed
+2026-07-08 13:45:17,896 INFO skillpath Incoming request
+2026-07-08 13:45:17,898 INFO skillpath Request completed
+2026-07-08 13:45:17,904 INFO skillpath Incoming request
+2026-07-08 13:45:17,907 INFO skillpath Request completed
+2026-07-08 13:45:17,913 INFO skillpath Incoming request
+2026-07-08 13:45:17,914 INFO skillpath Request completed
+2026-07-08 13:45:17,919 INFO skillpath Incoming request
+2026-07-08 13:45:17,921 INFO skillpath Request completed
+2026-07-08 13:45:17,928 INFO skillpath Incoming request
+2026-07-08 13:45:17,931 INFO skillpath Request completed
+2026-07-08 13:45:17,935 INFO skillpath Incoming request
+2026-07-08 13:45:17,938 INFO skillpath Request completed
+2026-07-08 13:45:17,944 INFO skillpath Incoming request
+2026-07-08 13:45:17,945 INFO skillpath Request completed
+2026-07-08 13:45:17,951 INFO skillpath Incoming request
+2026-07-08 13:45:17,953 INFO skillpath Request completed
+2026-07-08 13:45:17,959 INFO skillpath Incoming request
+2026-07-08 13:45:17,962 INFO skillpath Request completed
+2026-07-08 13:45:17,967 INFO skillpath Incoming request
+2026-07-08 13:45:17,969 INFO skillpath Request completed
+2026-07-08 13:45:17,976 INFO skillpath Incoming request
+2026-07-08 13:45:17,980 INFO skillpath Request completed
+2026-07-08 13:45:17,986 INFO skillpath Incoming request
+2026-07-08 13:45:17,988 INFO skillpath Request completed
+2026-07-08 13:45:17,998 INFO skillpath Incoming request
+2026-07-08 13:45:18,000 INFO skillpath Request completed
+2026-07-08 13:45:18,008 INFO skillpath Incoming request
+2026-07-08 13:45:18,011 INFO skillpath Request completed
+2026-07-08 13:45:18,019 INFO skillpath Incoming request
+2026-07-08 13:45:18,023 INFO skillpath Request completed
+2026-07-08 13:45:18,029 INFO skillpath Incoming request
+2026-07-08 13:45:18,031 INFO skillpath Request completed
+2026-07-08 13:45:18,040 INFO skillpath Incoming request
+2026-07-08 13:45:18,043 INFO skillpath Request completed
+2026-07-08 13:45:18,049 INFO skillpath Incoming request
+2026-07-08 13:45:18,051 INFO skillpath Request completed
+2026-07-08 13:45:18,056 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,063 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,069 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,073 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,080 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,086 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:18,122 INFO skillpath Incoming request
+2026-07-08 13:45:18,126 INFO skillpath Request completed
+2026-07-08 13:45:18,133 INFO skillpath Incoming request
+2026-07-08 13:45:18,136 INFO skillpath Request completed
+2026-07-08 13:45:18,142 INFO skillpath Incoming request
+2026-07-08 13:45:18,144 INFO skillpath Request completed
+2026-07-08 13:45:18,150 INFO skillpath Incoming request
+2026-07-08 13:45:18,152 INFO skillpath Request completed
+2026-07-08 13:45:18,158 INFO skillpath Incoming request
+2026-07-08 13:45:18,160 INFO skillpath Request completed
+2026-07-08 13:45:18,166 INFO skillpath Incoming request
+2026-07-08 13:45:18,168 INFO skillpath Request completed
+2026-07-08 13:45:18,175 INFO skillpath Incoming request
+2026-07-08 13:45:18,176 INFO skillpath Request completed
+2026-07-08 13:45:18,184 INFO skillpath Incoming request
+2026-07-08 13:45:18,188 INFO skillpath Request completed
+2026-07-08 13:45:18,194 INFO skillpath Incoming request
+2026-07-08 13:45:18,196 INFO skillpath Request completed
+2026-07-08 13:45:18,202 INFO skillpath Incoming request
+2026-07-08 13:45:18,204 INFO skillpath Request completed
+2026-07-08 13:45:18,210 INFO skillpath Incoming request
+2026-07-08 13:45:18,213 INFO skillpath Request completed
+2026-07-08 13:45:18,218 INFO skillpath Incoming request
+2026-07-08 13:45:18,220 INFO skillpath Request completed
+2026-07-08 13:45:18,226 INFO skillpath Incoming request
+2026-07-08 13:45:18,228 INFO skillpath Request completed
+2026-07-08 13:45:18,234 INFO skillpath Incoming request
+2026-07-08 13:45:18,236 INFO skillpath Request completed
+2026-07-08 13:45:18,242 INFO skillpath Incoming request
+2026-07-08 13:45:18,246 INFO skillpath Request completed
+2026-07-08 13:45:18,251 INFO skillpath Incoming request
+2026-07-08 13:45:18,255 INFO skillpath Request completed
+2026-07-08 13:45:18,261 INFO skillpath Incoming request
+2026-07-08 13:45:18,264 INFO skillpath Request completed
+2026-07-08 13:45:18,271 INFO skillpath Incoming request
+2026-07-08 13:45:18,274 INFO skillpath Request completed
+2026-07-08 13:45:18,283 INFO skillpath Incoming request
+2026-07-08 13:45:18,287 INFO skillpath Request completed
+2026-07-08 13:45:18,297 INFO skillpath Incoming request
+2026-07-08 13:45:18,299 INFO skillpath Request completed
+2026-07-08 13:45:18,305 INFO skillpath Incoming request
+2026-07-08 13:45:18,309 INFO skillpath Request completed
+2026-07-08 13:45:18,317 INFO skillpath Incoming request
+2026-07-08 13:45:18,321 INFO skillpath Request completed
+2026-07-08 13:45:18,326 INFO skillpath Incoming request
+2026-07-08 13:45:18,328 INFO skillpath Request completed
+2026-07-08 13:45:18,336 INFO skillpath Incoming request
+2026-07-08 13:45:18,339 INFO skillpath Request completed
+2026-07-08 13:45:18,344 INFO skillpath Incoming request
+2026-07-08 13:45:18,345 INFO skillpath Request completed
+2026-07-08 13:45:18,353 INFO skillpath Incoming request
+2026-07-08 13:45:18,355 INFO skillpath Request completed
+2026-07-08 13:45:18,360 INFO skillpath Incoming request
+2026-07-08 13:45:18,363 INFO skillpath Request completed
+2026-07-08 13:45:18,369 INFO skillpath Incoming request
+2026-07-08 13:45:18,371 INFO skillpath Request completed
+2026-07-08 13:45:18,376 INFO skillpath Incoming request
+2026-07-08 13:45:18,378 INFO skillpath Request completed
+2026-07-08 13:45:18,384 INFO skillpath Incoming request
+2026-07-08 13:45:18,386 INFO skillpath Request completed
+2026-07-08 13:45:18,391 INFO skillpath Incoming request
+2026-07-08 13:45:18,393 INFO skillpath Request completed
+2026-07-08 13:45:18,400 INFO skillpath Incoming request
+2026-07-08 13:45:18,403 INFO skillpath Request completed
+2026-07-08 13:45:18,408 INFO skillpath Incoming request
+2026-07-08 13:45:18,410 INFO skillpath Request completed
+2026-07-08 13:45:18,415 INFO skillpath Incoming request
+2026-07-08 13:45:18,418 INFO skillpath Request completed
+2026-07-08 13:45:18,424 INFO skillpath Incoming request
+2026-07-08 13:45:18,426 INFO skillpath Request completed
+2026-07-08 13:45:18,432 INFO skillpath Incoming request
+2026-07-08 13:45:18,435 INFO skillpath Request completed
+2026-07-08 13:45:18,440 INFO skillpath Incoming request
+2026-07-08 13:45:18,443 INFO skillpath Request completed
+2026-07-08 13:45:18,448 INFO skillpath Incoming request
+2026-07-08 13:45:18,450 INFO skillpath Request completed
+2026-07-08 13:45:18,457 INFO skillpath Incoming request
+2026-07-08 13:45:18,459 INFO skillpath Request completed
+2026-07-08 13:45:18,464 INFO skillpath Incoming request
+2026-07-08 13:45:18,467 INFO skillpath Request completed
+2026-07-08 13:45:18,473 INFO skillpath Incoming request
+2026-07-08 13:45:18,476 INFO skillpath Request completed
+2026-07-08 13:45:18,480 INFO skillpath Incoming request
+2026-07-08 13:45:18,483 INFO skillpath Request completed
+2026-07-08 13:45:18,489 INFO skillpath Incoming request
+2026-07-08 13:45:18,492 INFO skillpath Request completed
+2026-07-08 13:45:18,496 INFO skillpath Incoming request
+2026-07-08 13:45:18,498 INFO skillpath Request completed
+2026-07-08 13:45:18,505 INFO skillpath Incoming request
+2026-07-08 13:45:18,507 INFO skillpath Request completed
+2026-07-08 13:45:18,512 INFO skillpath Incoming request
+2026-07-08 13:45:18,514 INFO skillpath Request completed
+2026-07-08 13:45:18,520 INFO skillpath Incoming request
+2026-07-08 13:45:18,524 INFO skillpath Request completed
+2026-07-08 13:45:18,528 INFO skillpath Incoming request
+2026-07-08 13:45:18,530 INFO skillpath Request completed
+2026-07-08 13:45:18,536 INFO skillpath Incoming request
+2026-07-08 13:45:18,540 INFO skillpath Request completed
+2026-07-08 13:45:18,544 INFO skillpath Incoming request
+2026-07-08 13:45:18,547 INFO skillpath Request completed
+2026-07-08 13:45:18,554 INFO skillpath Incoming request
+2026-07-08 13:45:18,557 INFO skillpath Request completed
+2026-07-08 13:45:18,562 INFO skillpath Incoming request
+2026-07-08 13:45:18,564 INFO skillpath Request completed
+2026-07-08 13:45:18,569 INFO skillpath Incoming request
+2026-07-08 13:45:18,573 INFO skillpath Request completed
+2026-07-08 13:45:18,581 INFO skillpath Incoming request
+2026-07-08 13:45:18,583 INFO skillpath Request completed
+2026-07-08 13:45:18,589 INFO skillpath Incoming request
+2026-07-08 13:45:18,590 INFO skillpath Request completed
+2026-07-08 13:45:18,597 INFO skillpath Incoming request
+2026-07-08 13:45:18,599 INFO skillpath Request completed
+2026-07-08 13:45:18,604 INFO skillpath Incoming request
+2026-07-08 13:45:18,607 INFO skillpath Request completed
+2026-07-08 13:45:18,612 INFO skillpath Incoming request
+2026-07-08 13:45:18,615 INFO skillpath Request completed
+2026-07-08 13:45:18,620 INFO skillpath Incoming request
+2026-07-08 13:45:18,621 INFO skillpath Request completed
+2026-07-08 13:45:18,626 INFO skillpath Incoming request
+2026-07-08 13:45:18,629 INFO skillpath Request completed
+2026-07-08 13:45:18,635 INFO skillpath Incoming request
+2026-07-08 13:45:18,637 INFO skillpath Request completed
+2026-07-08 13:45:18,643 INFO skillpath Incoming request
+2026-07-08 13:45:18,644 INFO skillpath Request completed
+2026-07-08 13:45:18,649 INFO skillpath Incoming request
+2026-07-08 13:45:18,651 INFO skillpath Request completed
+2026-07-08 13:45:18,657 INFO skillpath Incoming request
+2026-07-08 13:45:18,660 INFO skillpath Request completed
+2026-07-08 13:45:18,666 INFO skillpath Incoming request
+2026-07-08 13:45:18,668 INFO skillpath Request completed
+2026-07-08 13:45:18,674 INFO skillpath Incoming request
+2026-07-08 13:45:18,676 INFO skillpath Request completed
+2026-07-08 13:45:18,682 INFO skillpath Incoming request
+2026-07-08 13:45:18,684 INFO skillpath Request completed
+2026-07-08 13:45:18,690 INFO skillpath Incoming request
+2026-07-08 13:45:18,692 INFO skillpath Request completed
+2026-07-08 13:45:18,697 INFO skillpath Incoming request
+2026-07-08 13:45:18,700 INFO skillpath Request completed
+2026-07-08 13:45:18,704 INFO skillpath Incoming request
+2026-07-08 13:45:18,707 INFO skillpath Request completed
+2026-07-08 13:45:18,713 INFO skillpath Incoming request
+2026-07-08 13:45:18,715 INFO skillpath Request completed
+2026-07-08 13:45:18,721 INFO skillpath Incoming request
+2026-07-08 13:45:18,722 INFO skillpath Request completed
+2026-07-08 13:45:18,727 INFO skillpath Incoming request
+2026-07-08 13:45:18,730 INFO skillpath Request completed
+2026-07-08 13:45:18,736 INFO skillpath Incoming request
+2026-07-08 13:45:18,739 INFO skillpath Request completed
+2026-07-08 13:45:18,744 INFO skillpath Incoming request
+2026-07-08 13:45:18,745 INFO skillpath Request completed
+2026-07-08 13:45:18,750 INFO skillpath Incoming request
+2026-07-08 13:45:18,753 INFO skillpath Request completed
+2026-07-08 13:45:18,758 INFO skillpath Incoming request
+2026-07-08 13:45:18,761 INFO skillpath Request completed
+2026-07-08 13:45:18,765 INFO skillpath Incoming request
+2026-07-08 13:45:18,767 INFO skillpath Request completed
+2026-07-08 13:45:18,774 INFO skillpath Incoming request
+2026-07-08 13:45:18,775 INFO skillpath Request completed
+2026-07-08 13:45:18,781 INFO skillpath Incoming request
+2026-07-08 13:45:18,783 INFO skillpath Request completed
+2026-07-08 13:45:18,788 INFO skillpath Incoming request
+2026-07-08 13:45:18,790 INFO skillpath Request completed
+2026-07-08 13:45:18,796 INFO skillpath Incoming request
+2026-07-08 13:45:18,798 INFO skillpath Request completed
+2026-07-08 13:45:18,803 INFO skillpath Incoming request
+2026-07-08 13:45:18,805 INFO skillpath Request completed
+2026-07-08 13:45:18,811 INFO skillpath Incoming request
+2026-07-08 13:45:18,813 INFO skillpath Request completed
+2026-07-08 13:45:18,820 INFO skillpath Incoming request
+2026-07-08 13:45:18,821 INFO skillpath Request completed
+2026-07-08 13:45:18,826 INFO skillpath Incoming request
+2026-07-08 13:45:18,828 INFO skillpath Request completed
+2026-07-08 13:45:18,834 INFO skillpath Incoming request
+2026-07-08 13:45:18,836 INFO skillpath Request completed
+2026-07-08 13:45:18,842 INFO skillpath Incoming request
+2026-07-08 13:45:18,844 INFO skillpath Request completed
+2026-07-08 13:45:18,848 INFO skillpath Incoming request
+2026-07-08 13:45:18,851 INFO skillpath Request completed
+2026-07-08 13:45:18,858 INFO skillpath Incoming request
+2026-07-08 13:45:18,860 INFO skillpath Request completed
+2026-07-08 13:45:18,865 INFO skillpath Incoming request
+2026-07-08 13:45:18,868 INFO skillpath Request completed
+2026-07-08 13:45:18,873 INFO skillpath Incoming request
+2026-07-08 13:45:18,877 INFO skillpath Request completed
+2026-07-08 13:45:18,882 INFO skillpath Incoming request
+2026-07-08 13:45:18,884 INFO skillpath Request completed
+2026-07-08 13:45:18,889 INFO skillpath Incoming request
+2026-07-08 13:45:18,891 INFO skillpath Request completed
+2026-07-08 13:45:18,897 INFO skillpath Incoming request
+2026-07-08 13:45:18,899 INFO skillpath Request completed
+2026-07-08 13:45:18,905 INFO skillpath Incoming request
+2026-07-08 13:45:18,908 INFO skillpath Request completed
+2026-07-08 13:45:18,913 INFO skillpath Incoming request
+2026-07-08 13:45:18,915 INFO skillpath Request completed
+2026-07-08 13:45:18,920 INFO skillpath Incoming request
+2026-07-08 13:45:18,937 INFO skillpath Request completed
+2026-07-08 13:45:18,944 INFO skillpath Incoming request
+2026-07-08 13:45:18,945 INFO skillpath Request completed
+2026-07-08 13:45:18,951 INFO skillpath Incoming request
+2026-07-08 13:45:18,953 INFO skillpath Request completed
+2026-07-08 13:45:18,958 INFO skillpath Incoming request
+2026-07-08 13:45:18,960 INFO skillpath Request completed
+2026-07-08 13:45:18,969 INFO skillpath Incoming request
+2026-07-08 13:45:18,972 INFO skillpath Request completed
+2026-07-08 13:45:18,976 INFO skillpath Incoming request
+2026-07-08 13:45:18,978 INFO skillpath Request completed
+2026-07-08 13:45:18,984 INFO skillpath Incoming request
+2026-07-08 13:45:18,987 INFO skillpath Request completed
+2026-07-08 13:45:18,993 INFO skillpath Incoming request
+2026-07-08 13:45:18,994 INFO skillpath Request completed
+2026-07-08 13:45:19,001 INFO skillpath Incoming request
+2026-07-08 13:45:19,005 INFO skillpath Request completed
+2026-07-08 13:45:19,014 INFO skillpath Incoming request
+2026-07-08 13:45:19,015 INFO skillpath Request completed
+2026-07-08 13:45:19,022 INFO skillpath Incoming request
+2026-07-08 13:45:19,024 INFO skillpath Request completed
+2026-07-08 13:45:19,030 INFO skillpath Incoming request
+2026-07-08 13:45:19,034 INFO skillpath Request completed
+2026-07-08 13:45:19,040 INFO skillpath Incoming request
+2026-07-08 13:45:19,043 INFO skillpath Request completed
+2026-07-08 13:45:19,048 INFO skillpath Incoming request
+2026-07-08 13:45:19,051 INFO skillpath Request completed
+2026-07-08 13:45:19,058 INFO skillpath Incoming request
+2026-07-08 13:45:19,062 INFO skillpath Request completed
+2026-07-08 13:45:19,068 INFO skillpath Incoming request
+2026-07-08 13:45:19,072 INFO skillpath Request completed
+2026-07-08 13:45:19,078 INFO skillpath Incoming request
+2026-07-08 13:45:19,080 INFO skillpath Request completed
+2026-07-08 13:45:19,086 INFO skillpath Incoming request
+2026-07-08 13:45:19,089 INFO skillpath Request completed
+2026-07-08 13:45:19,094 INFO skillpath Incoming request
+2026-07-08 13:45:19,097 INFO skillpath Request completed
+2026-07-08 13:45:19,103 INFO skillpath Incoming request
+2026-07-08 13:45:19,105 INFO skillpath Request completed
+2026-07-08 13:45:19,110 INFO skillpath Incoming request
+2026-07-08 13:45:19,114 INFO skillpath Request completed
+2026-07-08 13:45:19,119 INFO skillpath Incoming request
+2026-07-08 13:45:19,121 INFO skillpath Request completed
+2026-07-08 13:45:19,126 INFO skillpath Incoming request
+2026-07-08 13:45:19,130 INFO skillpath Request completed
+2026-07-08 13:45:19,136 INFO skillpath Incoming request
+2026-07-08 13:45:19,138 INFO skillpath Request completed
+2026-07-08 13:45:19,144 INFO skillpath Incoming request
+2026-07-08 13:45:19,147 INFO skillpath Request completed
+2026-07-08 13:45:19,153 INFO skillpath Incoming request
+2026-07-08 13:45:19,156 INFO skillpath Request completed
+2026-07-08 13:45:19,162 INFO skillpath Incoming request
+2026-07-08 13:45:19,164 INFO skillpath Request completed
+2026-07-08 13:45:19,171 INFO skillpath Incoming request
+2026-07-08 13:45:19,173 INFO skillpath Request completed
+2026-07-08 13:45:19,178 INFO skillpath Incoming request
+2026-07-08 13:45:19,182 INFO skillpath Request completed
+2026-07-08 13:45:19,189 INFO skillpath Incoming request
+2026-07-08 13:45:19,191 INFO skillpath Request completed
+2026-07-08 13:45:19,198 INFO skillpath Incoming request
+2026-07-08 13:45:19,200 INFO skillpath Request completed
+2026-07-08 13:45:19,207 INFO skillpath Incoming request
+2026-07-08 13:45:19,210 INFO skillpath Request completed
+2026-07-08 13:45:19,215 INFO skillpath Incoming request
+2026-07-08 13:45:19,218 INFO skillpath Request completed
+2026-07-08 13:45:19,226 INFO skillpath Incoming request
+2026-07-08 13:45:19,229 INFO skillpath Request completed
+2026-07-08 13:45:19,236 INFO skillpath Incoming request
+2026-07-08 13:45:19,238 INFO skillpath Request completed
+2026-07-08 13:45:19,244 INFO skillpath Incoming request
+2026-07-08 13:45:19,248 INFO skillpath Request completed
+2026-07-08 13:45:19,255 INFO skillpath Incoming request
+2026-07-08 13:45:19,258 INFO skillpath Request completed
+2026-07-08 13:45:19,266 INFO skillpath Incoming request
+2026-07-08 13:45:19,271 INFO skillpath Request completed
+2026-07-08 13:45:19,276 INFO skillpath Incoming request
+2026-07-08 13:45:19,280 INFO skillpath Request completed
+2026-07-08 13:45:19,289 INFO skillpath Incoming request
+2026-07-08 13:45:19,292 INFO skillpath Request completed
+2026-07-08 13:45:19,299 INFO skillpath Incoming request
+2026-07-08 13:45:19,302 INFO skillpath Request completed
+2026-07-08 13:45:19,308 INFO skillpath Incoming request
+2026-07-08 13:45:19,310 INFO skillpath Request completed
+2026-07-08 13:45:19,319 INFO skillpath Incoming request
+2026-07-08 13:45:19,323 INFO skillpath Request completed
+2026-07-08 13:45:19,328 INFO skillpath Incoming request
+2026-07-08 13:45:19,330 INFO skillpath Request completed
+2026-07-08 13:45:19,336 INFO skillpath Incoming request
+2026-07-08 13:45:19,339 INFO skillpath Request completed
+2026-07-08 13:45:19,345 INFO skillpath Incoming request
+2026-07-08 13:45:19,347 INFO skillpath Request completed
+2026-07-08 13:45:19,352 INFO skillpath Incoming request
+2026-07-08 13:45:19,354 INFO skillpath Request completed
+2026-07-08 13:45:19,360 INFO skillpath Incoming request
+2026-07-08 13:45:19,362 INFO skillpath Request completed
+2026-07-08 13:45:19,367 INFO skillpath Incoming request
+2026-07-08 13:45:19,369 INFO skillpath Request completed
+2026-07-08 13:45:19,374 INFO skillpath Incoming request
+2026-07-08 13:45:19,376 INFO skillpath Request completed
+2026-07-08 13:45:19,384 INFO skillpath Incoming request
+2026-07-08 13:45:19,385 INFO skillpath Request completed
+2026-07-08 13:45:19,391 INFO skillpath Incoming request
+2026-07-08 13:45:19,394 INFO skillpath Request completed
+2026-07-08 13:45:19,399 INFO skillpath Incoming request
+2026-07-08 13:45:19,402 INFO skillpath Request completed
+2026-07-08 13:45:19,431 INFO skillpath Incoming request
+2026-07-08 13:45:19,445 WARNING skillpath Validation error
+2026-07-08 13:45:19,446 INFO skillpath Request completed
+2026-07-08 13:45:19,477 INFO skillpath Incoming request
+2026-07-08 13:45:19,486 WARNING skillpath Validation error
+2026-07-08 13:45:19,487 INFO skillpath Request completed
+2026-07-08 13:45:19,516 INFO skillpath Incoming request
+2026-07-08 13:45:19,522 WARNING skillpath Validation error
+2026-07-08 13:45:19,523 INFO skillpath Request completed
+2026-07-08 13:45:19,550 INFO skillpath Incoming request
+2026-07-08 13:45:19,558 WARNING skillpath Validation error
+2026-07-08 13:45:19,559 INFO skillpath Request completed
+2026-07-08 13:45:19,585 INFO skillpath Incoming request
+2026-07-08 13:45:19,591 WARNING skillpath Validation error
+2026-07-08 13:45:19,593 INFO skillpath Request completed
+2026-07-08 13:45:19,621 INFO skillpath Incoming request
+2026-07-08 13:45:19,630 WARNING skillpath Validation error
+2026-07-08 13:45:19,630 INFO skillpath Request completed
+2026-07-08 13:45:19,638 INFO skillpath Incoming request
+2026-07-08 13:45:19,642 WARNING skillpath Validation error
+2026-07-08 13:45:19,643 INFO skillpath Request completed
+2026-07-08 13:45:19,649 INFO skillpath Incoming request
+2026-07-08 13:45:19,655 WARNING skillpath Validation error
+2026-07-08 13:45:19,655 INFO skillpath Request completed
+2026-07-08 13:45:19,661 INFO skillpath Incoming request
+2026-07-08 13:45:19,667 WARNING skillpath Validation error
+2026-07-08 13:45:19,668 INFO skillpath Request completed
+2026-07-08 13:45:19,673 INFO skillpath Incoming request
+2026-07-08 13:45:19,680 WARNING skillpath Validation error
+2026-07-08 13:45:19,680 INFO skillpath Request completed
+2026-07-08 13:45:19,962 INFO skillpath Password hashed successfully
+2026-07-08 13:45:19,971 INFO skillpath Incoming request
+2026-07-08 13:45:20,251 INFO skillpath Updated User with id 1
+2026-07-08 13:45:20,253 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:20,253 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:20,258 INFO skillpath Request completed
+2026-07-08 13:45:20,260 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:20,268 INFO skillpath Incoming request
+2026-07-08 13:45:20,273 INFO skillpath Token decoded successfully
+2026-07-08 13:45:20,276 INFO skillpath Request completed
+2026-07-08 13:45:20,571 INFO skillpath Password hashed successfully
+2026-07-08 13:45:20,580 INFO skillpath Incoming request
+2026-07-08 13:45:20,838 INFO skillpath Updated User with id 1
+2026-07-08 13:45:20,840 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:20,840 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:20,844 INFO skillpath Request completed
+2026-07-08 13:45:20,845 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:20,852 INFO skillpath Incoming request
+2026-07-08 13:45:20,860 INFO skillpath Token decoded successfully
+2026-07-08 13:45:20,864 INFO skillpath Request completed
+2026-07-08 13:45:21,162 INFO skillpath Password hashed successfully
+2026-07-08 13:45:21,172 INFO skillpath Incoming request
+2026-07-08 13:45:21,475 INFO skillpath Updated User with id 1
+2026-07-08 13:45:21,475 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:21,475 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:21,480 INFO skillpath Request completed
+2026-07-08 13:45:21,481 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:21,491 INFO skillpath Incoming request
+2026-07-08 13:45:21,497 INFO skillpath Token decoded successfully
+2026-07-08 13:45:21,502 INFO skillpath Request completed
+2026-07-08 13:45:21,846 INFO skillpath Password hashed successfully
+2026-07-08 13:45:21,852 INFO skillpath Incoming request
+2026-07-08 13:45:22,149 INFO skillpath Updated User with id 1
+2026-07-08 13:45:22,150 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:22,150 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:22,155 INFO skillpath Request completed
+2026-07-08 13:45:22,159 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:22,169 INFO skillpath Incoming request
+2026-07-08 13:45:22,178 INFO skillpath Request completed
+2026-07-08 13:45:22,497 INFO skillpath Password hashed successfully
+2026-07-08 13:45:22,507 INFO skillpath Incoming request
+2026-07-08 13:45:22,771 INFO skillpath Updated User with id 1
+2026-07-08 13:45:22,772 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:22,773 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:22,778 INFO skillpath Request completed
+2026-07-08 13:45:22,780 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:22,786 INFO skillpath Incoming request
+2026-07-08 13:45:22,792 INFO skillpath Token decoded successfully
+2026-07-08 13:45:22,797 INFO skillpath Listed 0 items with filters: {'category': None, 'location': None, 'goal': None, 'skill_level': None, 'price_min': None, 'price_max': None}, search: Python; rm -rf /, sort: None
+2026-07-08 13:45:22,798 INFO skillpath Request completed
+2026-07-08 13:45:23,086 INFO skillpath Password hashed successfully
+2026-07-08 13:45:23,094 INFO skillpath Incoming request
+2026-07-08 13:45:23,375 INFO skillpath Updated User with id 1
+2026-07-08 13:45:23,375 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:23,376 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:23,380 INFO skillpath Request completed
+2026-07-08 13:45:23,382 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:23,388 INFO skillpath Incoming request
+2026-07-08 13:45:23,397 INFO skillpath Token decoded successfully
+2026-07-08 13:45:23,400 WARNING skillpath Validation error
+2026-07-08 13:45:23,400 INFO skillpath Request completed
+2026-07-08 13:45:23,429 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:23,458 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:23,487 WARNING skillpath Rate limit exceeded for testclient
+2026-07-08 13:45:23,769 INFO skillpath Password hashed successfully
+2026-07-08 13:45:23,774 INFO skillpath Created User with id 1
+2026-07-08 13:45:23,775 INFO skillpath User registered: test@example.com
+2026-07-08 13:45:24,041 INFO skillpath Password hashed successfully
+2026-07-08 13:45:24,325 INFO skillpath Password hashed successfully
+2026-07-08 13:45:24,588 INFO skillpath Updated User with id 1
+2026-07-08 13:45:24,590 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:24,590 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:24,621 INFO skillpath Created Item with id 1
+2026-07-08 13:45:24,621 INFO skillpath Created item: Test Course
+2026-07-08 13:45:24,674 INFO skillpath Updated Item with id 1
+2026-07-08 13:45:24,675 INFO skillpath Updated item 1
+2026-07-08 13:45:24,691 INFO skillpath Deleted Item with id 1
+2026-07-08 13:45:24,692 INFO skillpath Deleted item 1
+2026-07-08 13:45:24,710 INFO skillpath Generated 2 recommendations for profile with goal: Career Change
+2026-07-08 13:45:24,725 INFO skillpath Generated explanation for item 1: Python Bootcamp
+2026-07-08 13:45:24,741 INFO skillpath Listed 1 items with filters: {'category': 'Programming'}, search: None, sort: None
+2026-07-08 13:45:24,755 INFO skillpath Listed 2 items with filters: None, search: Python, sort: None
+2026-07-08 13:45:24,776 INFO skillpath Listed 3 items with filters: None, search: None, sort: price
+2026-07-08 13:45:24,794 INFO skillpath Listed 3 items with filters: None, search: None, sort: None
+2026-07-08 13:45:25,078 INFO skillpath Password hashed successfully
+2026-07-08 13:45:25,086 INFO skillpath Incoming request
+2026-07-08 13:45:25,345 INFO skillpath Updated User with id 1
+2026-07-08 13:45:25,347 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:25,347 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:25,351 INFO skillpath Request completed
+2026-07-08 13:45:25,353 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:25,358 INFO skillpath Incoming request
+2026-07-08 13:45:25,363 INFO skillpath Token decoded successfully
+2026-07-08 13:45:25,369 INFO skillpath Request completed
+2026-07-08 13:45:25,649 INFO skillpath Password hashed successfully
+2026-07-08 13:45:25,654 INFO skillpath Incoming request
+2026-07-08 13:45:25,930 INFO skillpath Updated User with id 1
+2026-07-08 13:45:25,930 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:25,930 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:25,935 INFO skillpath Request completed
+2026-07-08 13:45:25,938 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:25,944 INFO skillpath Incoming request
+2026-07-08 13:45:25,952 INFO skillpath Token decoded successfully
+2026-07-08 13:45:25,976 INFO skillpath Updated User with id 1
+2026-07-08 13:45:25,976 INFO skillpath User updated: user@test.com
+2026-07-08 13:45:25,980 INFO skillpath Request completed
+2026-07-08 13:45:26,015 INFO skillpath Incoming request
+2026-07-08 13:45:26,020 INFO skillpath Request completed
+2026-07-08 13:45:26,295 INFO skillpath Password hashed successfully
+2026-07-08 13:45:26,303 INFO skillpath Incoming request
+2026-07-08 13:45:26,578 INFO skillpath Updated User with id 1
+2026-07-08 13:45:26,580 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:26,580 INFO skillpath User logged in: admin@test.com
+2026-07-08 13:45:26,585 INFO skillpath Request completed
+2026-07-08 13:45:26,587 INFO skillpath User login logged: admin@test.com (ID: 1)
+2026-07-08 13:45:26,599 INFO skillpath Incoming request
+2026-07-08 13:45:26,606 INFO skillpath Token decoded successfully
+2026-07-08 13:45:26,610 INFO skillpath Listed 1 users
+2026-07-08 13:45:26,615 INFO skillpath Request completed
+2026-07-08 13:45:26,999 INFO skillpath Password hashed successfully
+2026-07-08 13:45:27,009 INFO skillpath Incoming request
+2026-07-08 13:45:27,315 INFO skillpath Updated User with id 1
+2026-07-08 13:45:27,316 INFO skillpath Created access token for subject: 1
+2026-07-08 13:45:27,316 INFO skillpath User logged in: user@test.com
+2026-07-08 13:45:27,320 INFO skillpath Request completed
+2026-07-08 13:45:27,321 INFO skillpath User login logged: user@test.com (ID: 1)
+2026-07-08 13:45:27,330 INFO skillpath Incoming request
+2026-07-08 13:45:27,335 INFO skillpath Token decoded successfully
+2026-07-08 13:45:27,340 INFO skillpath Request completed
