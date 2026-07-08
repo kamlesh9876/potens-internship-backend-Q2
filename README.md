@@ -18,6 +18,17 @@ A production-grade FastAPI backend for a skill path recommendation system with J
 - **Security Headers**: Comprehensive security headers
 - **Request Logging**: Detailed request/response logging
 
+## Tech Stack
+- **FastAPI**: Modern, fast web framework with automatic OpenAPI docs
+- **SQLAlchemy**: ORM for database operations with type safety
+- **Alembic**: Database migration management
+- **Pydantic**: Data validation and serialization
+- **JWT**: Stateless authentication
+- **Python 3.11+**: Runtime environment
+- **SQLite**: Lightweight database (can be upgraded to PostgreSQL)
+- **pytest**: Testing framework
+- **uvicorn**: ASGI server
+
 ## Architecture
 
 ### Layered Architecture
@@ -34,6 +45,81 @@ app/
 ├── metrics/             # Metrics collection
 └── background/          # Background tasks
 ```
+
+### Folder Structure
+```
+potens-internship-backend-Q2/
+├── app/
+│   ├── api/             # API endpoints
+│   │   └── v1/         # Versioned API
+│   ├── background/      # Background tasks
+│   ├── cache/           # Caching implementation
+│   ├── core/            # Core utilities
+│   ├── db/              # Database configuration
+│   ├── metrics/         # Metrics collection
+│   ├── middleware/      # Custom middleware
+│   ├── models/          # SQLAlchemy models
+│   ├── repositories/    # Data access layer
+│   ├── schemas/         # Pydantic schemas
+│   ├── services/        # Business logic
+│   └── utils/           # Utilities
+├── alembic/             # Database migrations
+├── tests/               # Test suite
+├── scripts/             # Utility scripts
+├── docs/                # Documentation
+├── data/                # Database files (gitignored)
+├── logs/                # Log files (gitignored)
+├── .github/workflows/   # CI/CD pipeline
+├── README.md
+├── requirements.txt
+├── alembic.ini
+├── .env.example
+└── .gitignore
+```
+
+### Database Design
+**Users Table**
+- id (Primary Key)
+- username (Unique)
+- email (Unique)
+- hashed_password
+- full_name
+- is_active
+- is_admin
+- created_at
+- updated_at
+
+**Items Table**
+- id (Primary Key)
+- name
+- category
+- price
+- skill_level
+- goal
+- location
+- pace
+- description
+- created_at
+- updated_at
+
+**Indexes**
+- Single-column: category, goal, location, skill_level, price, created_at
+- Composite: (category, goal), (location, skill_level), (price, category)
+
+### Recommendation Logic
+The recommendation engine uses a weighted scoring system based on user profile attributes:
+
+1. **Goal Match** (+4 points): Item goal must match user goal
+2. **Skill Level Match** (+3 points): Exact skill level match
+3. **Beginner-Friendly** (+2 points): Beginner users can access beginner/intermediate items
+4. **Budget Fit** (+2 points): User budget >= item price
+5. **Near-Budget Fit** (+1 point): User budget >= 80% of item price
+6. **Location Fit** (+2 points): Location matches or item is remote
+7. **Pace Fit** (+1 point): Preferred pace matches item pace
+
+**Minimum Score**: 8 points required for recommendation
+**Tie Breaker**: Higher score wins, then by creation date (newest first)
+**Output**: Top 3 ranked recommendations with human-readable explanations
 
 ### Design Decisions
 - **FastAPI**: Modern, fast web framework with automatic OpenAPI docs
@@ -134,8 +220,77 @@ Open http://localhost:8000/redoc in your browser
 - `GET /api/v1/items/{id}` - Get item by ID (admin only)
 - `PUT /api/v1/items/{id}` - Update item (admin only)
 - `DELETE /api/v1/items/{id}` - Delete item (admin only)
+- `GET /api/v1/explain/{item_id}` - Get explanation for item
 - `GET /api/v1/health` - Health check
 - `GET /api/v1/metrics` - Application metrics
+
+## Example Requests
+
+### Register User
+```bash
+curl -X POST http://localhost:8000/api/v1/auth/register \
+  -H "Content-Type: application/json" \
+  -d '{
+    "username": "testuser",
+    "email": "user@example.com",
+    "password": "SecurePass123",
+    "full_name": "Test User"
+  }'
+```
+
+### Login
+```bash
+curl -X POST http://localhost:8000/api/v1/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{
+    "email": "user@example.com",
+    "password": "SecurePass123"
+  }'
+```
+
+### Get Recommendations
+```bash
+curl -X POST http://localhost:8000/api/v1/recommend \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_JWT_TOKEN" \
+  -d '{
+    "age": 25,
+    "budget": 200,
+    "experience_level": "Beginner",
+    "goal": "Career Change",
+    "location": "Online",
+    "preferred_pace": "Self-paced"
+  }'
+```
+
+### Create Item (Admin)
+```bash
+curl -X POST http://localhost:8000/api/v1/items \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_ADMIN_TOKEN" \
+  -d '{
+    "name": "Python Bootcamp",
+    "category": "Programming",
+    "price": 99.99,
+    "skill_level": "Beginner",
+    "goal": "Career Change",
+    "location": "Online",
+    "pace": "Self-paced",
+    "description": "Learn Python from scratch"
+  }'
+```
+
+### List Items with Filters
+```bash
+curl -X GET "http://localhost:8000/api/v1/items?category=Programming&price_min=50&price_max=150&page=1&limit=10" \
+  -H "Authorization: Bearer YOUR_ADMIN_TOKEN"
+```
+
+### Get Item Explanation
+```bash
+curl -X GET http://localhost:8000/api/v1/explain/1 \
+  -H "Authorization: Bearer YOUR_JWT_TOKEN"
+```
 
 ## Testing
 
